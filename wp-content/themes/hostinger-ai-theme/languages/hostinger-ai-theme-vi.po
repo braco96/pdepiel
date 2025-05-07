@@ -1,0 +1,628 @@
+# Copyright (C) 2025 Hostinger
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI theme 1.0.32\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hostinger-ai-"
+"theme\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-28T08:28:09+00:00\n"
+"PO-Revision-Date: 2025-03-27 19:30+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-theme\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2"
+
+#: includes/Admin/AdminTranslations.php:10
+msgid ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">Site couldn’t be created</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">That’s because of an "
+"issue on our end. Try creating your site again. </p></span>"
+msgstr ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">Không thể tạo trang</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">vì có một số vấn đề ở "
+"phía chúng tôi. Hãy thử tạo lại trang. </p></span>"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:46
+msgid "A customizable booking form for your website"
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:126
+msgid "Add text..."
+msgstr ""
+
+#: includes/Settings/Theme.php:94
+msgid "Adjust how elements are displayed on your website:"
+msgstr "Điều chỉnh cách các phần hiển thị trên trang web:"
+
+#: includes/Admin/AdminTranslations.php:18
+msgid "Affiliate marketing site"
+msgstr "Trang tiếp thị Affiliate"
+
+#: includes/Admin/AdminTranslations.php:11 includes/Admin/Menu.php:21
+#: includes/Admin/Menu.php:22
+msgid "AI Website Creation"
+msgstr "Trình tạo trang web AI"
+
+#: includes/Builder/NavigationBuilder.php:205
+msgid "All rights reserved."
+msgstr ""
+
+#: includes/Shortcodes/ContactForm.php:26
+msgid "An error occurred. Please try again later."
+msgstr "Đã xảy ra lỗi. Vui lòng thử lại sau."
+
+#. translators: %s php version
+#: functions.php:36
+msgid "Attention:"
+msgstr "Chú ý:"
+
+#: includes/Admin/AdminTranslations.php:25
+msgid "Back"
+msgstr "Quay lại"
+
+#: gutenberg-blocks/Booking/block.json
+msgctxt "block description"
+msgid "A block with booking form integration"
+msgstr ""
+
+#: gutenberg-blocks/Booking/block.json
+msgctxt "block title"
+msgid "Booking Block"
+msgstr ""
+
+#: includes/Admin/AdminTranslations.php:19
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/Admin/AdminTranslations.php:21
+msgid "Booking"
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:45
+msgid "Booking Form"
+msgstr ""
+
+#: gutenberg-blocks/Booking/Booking.php:76
+msgid "Bookings"
+msgstr ""
+
+#: includes/Admin/AdminTranslations.php:13
+msgid "Brand name"
+msgstr "Tên thương hiệu"
+
+#: includes/Admin/AdminTranslations.php:29
+msgid "Building content"
+msgstr "Xây dựng nội dung"
+
+#: includes/Admin/AdminTranslations.php:17
+msgid "Business and services"
+msgstr "Kinh doanh và dịch vụ"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:64
+msgid "Button Settings"
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:66
+msgid "Button Text"
+msgstr ""
+
+#: includes/Admin/AdminTranslations.php:38
+msgid "Cancel"
+msgstr "Hủy"
+
+#: includes/Settings/Theme.php:110
+msgid "Check this box to hide the header element on all pages"
+msgstr "Đánh dấu ô này để ẩn phần tiêu đề trên tất cả các trang"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 1 (Section backgrounds)"
+msgstr "Màu 1 (Màu nền phần)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 2 (Section backgrounds)"
+msgstr "Màu 2 (Màu nền phần)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 3 (Button background)"
+msgstr "Màu 3 (Màu nền nút)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark (Text on Light and Color 1)"
+msgstr "Tối (Văn bản Sáng và Màu 1"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Grey (Form borders)"
+msgstr "Màu xám (Đường viền biểu mẫu)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light (Text on Color 2 and Gradient)"
+msgstr "Sáng (Văn bản Màu 2 và Chuyển màu)"
+
+#: includes/Admin/AdminTranslations.php:31
+msgid "Confirm & edit"
+msgstr "Xác nhận & chỉnh sửa"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:36
+msgid "Consent Text"
+msgstr ""
+
+#: includes/Builder/NavigationBuilder.php:351
+msgid "Contacts"
+msgstr "Liên hệ"
+
+#: includes/Admin/AdminTranslations.php:39
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: includes/Admin/AdminTranslations.php:24
+msgid "Create"
+msgstr "Tạo"
+
+#: includes/Admin/AdminTranslations.php:30
+msgid "Create again"
+msgstr "Tạo lại"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr "Không tiêu đề"
+
+#: gutenberg-blocks/Booking/Booking.php:85
+msgid "Date"
+msgstr ""
+
+#: includes/Admin/AdminTranslations.php:22
+msgid "Describe your site"
+msgstr "Mô tả trang"
+
+#: includes/Admin/AdminTranslations.php:23
+msgid "Description"
+msgstr "Mô tả"
+
+#: includes/Shortcodes/ContactForm.php:151
+msgid "Details:"
+msgstr "Chi tiết:"
+
+#: includes/Settings/Theme.php:53
+msgid "Display Settings"
+msgstr "Thiết lập hiển thị"
+
+#: includes/Admin/Surveys.php:35
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "Bạn có gợi ý/đề xuất gì để nâng cao công cụ AI của chúng tôi không?"
+
+#: includes/Hooks.php:79
+msgid "Edit site"
+msgstr "Chỉnh sửa trang"
+
+#: includes/Shortcodes/ContactForm.php:69
+msgid "Email"
+msgstr "Email"
+
+#: includes/Shortcodes/ContactForm.php:153
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/Admin/AdminTranslations.php:33
+msgid "Enter at least 11 characters"
+msgstr "Nhập tối thiểu 11 ký tự"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:19
+msgid "Enter your email..."
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:31
+msgid "Enter your message..."
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:13
+msgid "Enter your name..."
+msgstr ""
+
+#: includes/Admin/AdminTranslations.php:36
+msgid "Existing content will be deleted"
+msgstr "Nội dung hiện có sẽ bị xóa"
+
+#: includes/Admin/Templates/featured-image-metabox.php:7
+msgid "External image can be used to show featured image."
+msgstr "Hình ảnh bên ngoài có thể dùng để hiển thị hình ảnh nổi bật."
+
+#: includes/Admin/Templates/featured-image-metabox.php:12
+msgid "External Image URL"
+msgstr "URL hình ảnh bên ngoài"
+
+#: includes/Shortcodes/ContactForm.php:173
+msgid "Failed to send email. Please try again later."
+msgstr "Gửi email thất bại. Vui lòng thử lại sau."
+
+#: includes/Admin/Hooks.php:33
+msgid "Featured Image with URL"
+msgstr "Hình ảnh nổi bật với URL"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:18
+msgid "Field Settings"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "System"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Lớn"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Vừa"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Nhỏ"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/Admin/AdminTranslations.php:26
+msgid "Generating colors"
+msgstr "Đang tạo màu sắc"
+
+#: includes/Admin/AdminTranslations.php:28
+msgid "Generating content"
+msgstr "Đang tạo nội dung"
+
+#: includes/Admin/AdminTranslations.php:27
+msgid "Generating structure"
+msgstr "Đang tạo cấu trúc"
+
+#: includes/Admin/AdminTranslations.php:32
+msgid "Give us a minute"
+msgstr "Đợi chúng tôi một chút"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Section background gradient"
+msgstr "Phần nền chuyển màu"
+
+#: includes/Admin/AdminTranslations.php:35
+msgid "Great description! Feel free to add more details"
+msgstr "Mô tả tuyệt vời! Bạn có thể thêm thông tin thoải mái"
+
+#: includes/Shortcodes/ContactForm.php:149
+msgid "Hello,"
+msgstr "Xin chào,"
+
+#: includes/Settings/Theme.php:60
+msgid "Hide Header"
+msgstr "Ẩn đầu trang"
+
+#. Author of the theme
+#: style.css
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hostinger AI theme"
+msgstr "Hostinger AI theme"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Hostinger AI theme built with SEO and mobile responsiveness in mind, this "
+"theme ensures optimal performance and a better online presence."
+msgstr ""
+"Hostinger AI theme được xây dựng với SEO và tương thích di động, chủ đề này "
+"đảm bảo tối ưu hiệu suất và hiện diện trực tuyến tốt hơn."
+
+#: includes/Admin/Surveys.php:31
+msgid ""
+"How would you rate your experience using our AI website builder to create "
+"your site? (Scale 1-10)"
+msgstr ""
+"Bạn đánh giá trải nghiệm sử dụng AI Website Builder của chúng tôi dùng để "
+"tạo trang web như thế nào? (Từ 1-10)"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://hostinger.com"
+msgstr "https://hostinger.vn"
+
+#: includes/Shortcodes/ContactForm.php:42
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in"
+msgstr ""
+"Tôi đồng ý dùng thông tin cá nhân được cung cấp cho mục đích trả lời yêu cầu "
+"như mô tả trong"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:37
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in Privacy Policy which I have read. I may withdraw "
+"my consent at any time."
+msgstr ""
+
+#: patterns/hidden-404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Dường như không tìm thấy gì tại vị trí này. Có thể thử tìm kiếm?"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:22
+msgid "Label"
+msgstr ""
+
+#: includes/Admin/AdminTranslations.php:20
+msgid "Landing"
+msgstr "Đích"
+
+#: includes/Admin/AdminTranslations.php:34
+msgid "Let us know more about your website to get the best result"
+msgstr "Cho chúng tôi biết thêm về trang web để đạt kết quả tốt nhất"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:43
+msgid "Link to your privacy policy page"
+msgstr ""
+
+#: includes/Builder/NavigationBuilder.php:350
+msgid "Menu"
+msgstr "Thực đơn"
+
+#: includes/Shortcodes/ContactForm.php:78
+msgid "Message"
+msgstr "Tin nhắn"
+
+#: includes/Shortcodes/ContactForm.php:154
+msgid "Message:"
+msgstr "Tin nhắn:"
+
+#: includes/Shortcodes/ContactForm.php:60
+msgid "Name"
+msgstr "Tên"
+
+#: includes/Shortcodes/ContactForm.php:152
+msgid "Name:"
+msgstr "Tên:"
+
+#: includes/Shortcodes/ContactForm.php:132
+msgid "New Contact Form Submission"
+msgstr "Gửi biểu mẫu liên hệ mới"
+
+#: gutenberg-blocks/Booking/Booking.php:79
+msgid "No bookings yet."
+msgstr ""
+
+#: patterns/query.php:24
+msgid "No results found."
+msgstr "Không tìm thấy kết quả."
+
+#: includes/Shortcodes/ContactForm.php:176
+msgid "Not valid recipient email."
+msgstr "Email nhận không hợp lệ."
+
+#: includes/Admin/AdminTranslations.php:15
+msgid "Other"
+msgstr "Khác"
+
+#: patterns/hidden-404.php:13
+msgid "Page not found"
+msgstr "Không tìm thấy trang"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-post-meta.php
+msgctxt "Pattern title"
+msgid "Hidden post meta"
+msgstr "Ẩn meta bài viết"
+
+#: patterns/query.php
+msgctxt "Pattern title"
+msgid "Query"
+msgstr "Truy vấn"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:28
+msgid "Placeholder"
+msgstr ""
+
+#: includes/Shortcodes/ContactForm.php:123
+msgid "Please agree with privacy policy."
+msgstr "Vui lòng đồng ý với chính sách bảo mật."
+
+#: includes/Shortcodes/ContactForm.php:128
+msgid "Please enter a valid email address."
+msgstr "Vui lòng nhập địa chỉ email hợp lệ."
+
+#: includes/Admin/AdminTranslations.php:16
+msgid "Portfolio"
+msgstr "Danh mục đầu tư"
+
+#: includes/Shortcodes/ContactForm.php:44
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:39
+msgid "Privacy Policy"
+msgstr "Chính sách Bảo mật"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:48
+msgid "Privacy Policy Link Text"
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:42
+msgid "Privacy Policy URL"
+msgstr ""
+
+#: includes/Rest/BuilderRoutes.php:213
+msgid "Problem building content."
+msgstr "Lỗi xây dựng nội dung."
+
+#: includes/Rest/BuilderRoutes.php:169
+msgid "Problem generating content."
+msgstr "Lỗi tạo nội dung."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:56
+msgid "Required"
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:25
+msgid "Select date..."
+msgstr ""
+
+#: includes/Shortcodes/ContactForm.php:101
+msgid "Send Message"
+msgstr "Gửi tin nhắn"
+
+#: includes/Builder/NavigationBuilder.php:352
+msgid "Socials"
+msgstr "Xã hội"
+
+#: includes/Rest/BuilderRoutes.php:63
+msgid "Sorry, something wrong with data."
+msgstr "Xin lỗi, đã có lỗi với dữ liệu."
+
+#: includes/Shortcodes/ContactForm.php:171
+msgid "Successfully submitted!"
+msgstr "Gửi thành công!"
+
+#: includes/Admin/AdminTranslations.php:12
+msgid "Tell us about your site"
+msgstr "Cho chúng tôi biết về trang của bạn"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Chân trang"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Đầu trang"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:49
+msgid "Text to display for the privacy policy link"
+msgstr ""
+
+#. translators: %s php version
+#: functions.php:36
+msgid ""
+"The Hostinger Easy Onboarding plugin requires minimum PHP version of <b>"
+"%s</b>. "
+msgstr ""
+"Plugin Hostinger Easy Onboarding yêu cầu tối thiểu phiên bản PHP <b>%s</b>. "
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:37
+msgid "The text shown with the privacy policy checkbox"
+msgstr ""
+
+#: includes/Settings/Theme.php:29 includes/Settings/Theme.php:30
+#: includes/Settings/Theme.php:122
+msgid "Theme Settings"
+msgstr "Thiết lập chủ đề"
+
+#: includes/Admin/AdminTranslations.php:40
+msgid "This field is required"
+msgstr "Yêu cầu trường này"
+
+#: includes/Admin/AdminTranslations.php:42
+msgid "This field should not be longer than 1024 symbols."
+msgstr "Trường này không được quá 1024 ký tự."
+
+#: includes/Admin/AdminTranslations.php:41
+msgid "This field should not be longer than 255 symbols."
+msgstr "Trường này không được quá 255 ký tự."
+
+#: includes/Admin/AdminTranslations.php:14
+msgid "Website type"
+msgstr "Loại trang web"
+
+#: includes/Shortcodes/ContactForm.php:74
+msgid "What's your email?"
+msgstr "Email của bạn là gì?"
+
+#: includes/Shortcodes/ContactForm.php:65
+msgid "What's your name?"
+msgstr "Tên bạn là gì?"
+
+#: includes/Shortcodes/ContactForm.php:46
+msgid "which I have read. I may withdraw my consent at any time."
+msgstr "mà tôi đã đọc. Tôi có thể rút lại sự đồng ý bất kỳ lúc nào."
+
+#: includes/Shortcodes/ContactForm.php:82
+msgid "Write your message..."
+msgstr "Viết tin nhắn..."
+
+#: includes/Rest/BuilderRoutes.php:114 includes/Rest/BuilderRoutes.php:149
+#: includes/Rest/BuilderRoutes.php:197
+msgid "Wrong sequence of step execution."
+msgstr "Sai trình tự thực hiện các bước."
+
+#. translators: %s php version
+#: functions.php:40
+msgid "You are running <b>%s</b> PHP version."
+msgstr "Bạn đang chạy phiên bản PHP <b>%s</b>."
+
+#: includes/Admin/AdminTranslations.php:37
+msgid ""
+"You have already generated content. Continuing will delete all previous "
+"content. Are you sure you want to proceed?"
+msgstr ""
+"Bạn đã tạo nội dung. Tiếp tục sẽ xóa toàn bộ nội dung trước đây. Bạn có chắc "
+"chắn tiếp tục?"
+
+#: includes/Shortcodes/ContactForm.php:150
+msgid "You have received a new message through your website's contact form."
+msgstr "Bạn đã nhận được tin nhắn mới từ biểu mẫu liên hệ của trang web."

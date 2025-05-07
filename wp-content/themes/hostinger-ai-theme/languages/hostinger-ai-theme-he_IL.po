@@ -1,0 +1,625 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI theme 1.0.16\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hostinger-ai-"
+"theme\n"
+"Last-Translator: \n"
+"Language-Team: Hebrew\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-16T07:28:53+00:00\n"
+"PO-Revision-Date: 2025-03-27 19:25+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-theme\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2"
+
+#: includes/Admin/AdminTranslations.php:10
+msgid ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">Site couldn’t be created</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">That’s because of an "
+"issue on our end. Try creating your site again. </p></span>"
+msgstr ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">לא ניתן היה ליצור את האתר</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">זאת בשל תקלה אצלנו. "
+"נסו ליצור את האתר שלכם שוב.</p></span>"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:46
+msgid "A customizable booking form for your website"
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:126
+msgid "Add text..."
+msgstr ""
+
+#: includes/Settings/Theme.php:94
+msgid "Adjust how elements are displayed on your website:"
+msgstr "הגדירו כיצד אלמנטים יוצגו באתר שלכם:"
+
+#: includes/Admin/AdminTranslations.php:18
+msgid "Affiliate marketing site"
+msgstr "אתר שיווק שותפים"
+
+#: includes/Admin/AdminTranslations.php:11 includes/Admin/Menu.php:21
+#: includes/Admin/Menu.php:22
+msgid "AI Website Creation"
+msgstr "יצירת אתרים AI"
+
+#: includes/Builder/NavigationBuilder.php:205
+msgid "All rights reserved."
+msgstr ""
+
+#: includes/Shortcodes/ContactForm.php:26
+msgid "An error occurred. Please try again later."
+msgstr "אירעה שגיאה. אנא נסו שוב מאוחר יותר."
+
+#. translators: %s php version
+#: functions.php:36
+msgid "Attention:"
+msgstr "שימו לב:"
+
+#: includes/Admin/AdminTranslations.php:25
+msgid "Back"
+msgstr "חזור"
+
+#: gutenberg-blocks/Booking/block.json
+msgctxt "block description"
+msgid "A block with booking form integration"
+msgstr ""
+
+#: gutenberg-blocks/Booking/block.json
+msgctxt "block title"
+msgid "Booking Block"
+msgstr ""
+
+#: includes/Admin/AdminTranslations.php:19
+msgid "Blog"
+msgstr "בלוג"
+
+#: includes/Admin/AdminTranslations.php:21
+msgid "Booking"
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:45
+msgid "Booking Form"
+msgstr ""
+
+#: gutenberg-blocks/Booking/Booking.php:76
+msgid "Bookings"
+msgstr ""
+
+#: includes/Admin/AdminTranslations.php:13
+msgid "Brand name"
+msgstr "שם מותג"
+
+#: includes/Admin/AdminTranslations.php:29
+msgid "Building content"
+msgstr "בונה תוכן"
+
+#: includes/Admin/AdminTranslations.php:17
+msgid "Business and services"
+msgstr "עסקים ושירותים"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:64
+msgid "Button Settings"
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:66
+msgid "Button Text"
+msgstr ""
+
+#: includes/Admin/AdminTranslations.php:38
+msgid "Cancel"
+msgstr "ביטול"
+
+#: includes/Settings/Theme.php:110
+msgid "Check this box to hide the header element on all pages"
+msgstr "סמנו את תיבה זו כדי להסתיר את אלמנט הכותרת העליונה בכל העמודים"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 1 (Section backgrounds)"
+msgstr "צבע 1 (רקעי הקטע)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 2 (Section backgrounds)"
+msgstr "צבע 2 (רקעי הקטע)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 3 (Button background)"
+msgstr "צבע 3 (רקע כפתור)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark (Text on Light and Color 1)"
+msgstr "חשוך (טקסט על אור וצבע 1)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Grey (Form borders)"
+msgstr "אפור (גבולות טופס)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light (Text on Color 2 and Gradient)"
+msgstr "בהיר (טקסט על צבע 2 וצבע מעבר)"
+
+#: includes/Admin/AdminTranslations.php:31
+msgid "Confirm & edit"
+msgstr "אישור ועריכה"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:36
+msgid "Consent Text"
+msgstr ""
+
+#: includes/Builder/NavigationBuilder.php:351
+msgid "Contacts"
+msgstr "אנשי קשר"
+
+#: includes/Admin/AdminTranslations.php:39
+msgid "Continue"
+msgstr "המשך"
+
+#: includes/Admin/AdminTranslations.php:24
+msgid "Create"
+msgstr "צור"
+
+#: includes/Admin/AdminTranslations.php:30
+msgid "Create again"
+msgstr "צור שוב"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr "אין כותרת"
+
+#: gutenberg-blocks/Booking/Booking.php:85
+msgid "Date"
+msgstr ""
+
+#: includes/Admin/AdminTranslations.php:22
+msgid "Describe your site"
+msgstr "תארו את האתר שלכם"
+
+#: includes/Admin/AdminTranslations.php:23
+msgid "Description"
+msgstr "תיאור"
+
+#: includes/Shortcodes/ContactForm.php:151
+msgid "Details:"
+msgstr "פרטים:"
+
+#: includes/Settings/Theme.php:53
+msgid "Display Settings"
+msgstr "הגדרות תצוגה"
+
+#: includes/Admin/Surveys.php:35
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "יש לכם הערות/המלצות כדי לשפר את כלי ה-AI שלנו?"
+
+#: includes/Hooks.php:79
+msgid "Edit site"
+msgstr "עריכת האתר"
+
+#: includes/Shortcodes/ContactForm.php:69
+msgid "Email"
+msgstr "אימייל"
+
+#: includes/Shortcodes/ContactForm.php:153
+msgid "Email:"
+msgstr "אימייל:"
+
+#: includes/Admin/AdminTranslations.php:33
+msgid "Enter at least 11 characters"
+msgstr "הזינו לפחות 11 תווים"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:19
+msgid "Enter your email..."
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:31
+msgid "Enter your message..."
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:13
+msgid "Enter your name..."
+msgstr ""
+
+#: includes/Admin/AdminTranslations.php:36
+msgid "Existing content will be deleted"
+msgstr "תוכן קיים יימחק"
+
+#: includes/Admin/Templates/featured-image-metabox.php:7
+msgid "External image can be used to show featured image."
+msgstr "תמונה חיצונית יכולה לשמש להצגת תמונה מובחרת."
+
+#: includes/Admin/Templates/featured-image-metabox.php:12
+msgid "External Image URL"
+msgstr "URL תמונה חיצונית"
+
+#: includes/Shortcodes/ContactForm.php:173
+msgid "Failed to send email. Please try again later."
+msgstr "שליחת מייל כשלה. אנו נסו שוב מאוחר יותר."
+
+#: includes/Admin/Hooks.php:33
+msgid "Featured Image with URL"
+msgstr "תמונה מובחרת עם URL"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:18
+msgid "Field Settings"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "System"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "גדול"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "בינוני"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "קטן"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/Admin/AdminTranslations.php:26
+msgid "Generating colors"
+msgstr "מחולל צבעים"
+
+#: includes/Admin/AdminTranslations.php:28
+msgid "Generating content"
+msgstr "מחולל תוכן"
+
+#: includes/Admin/AdminTranslations.php:27
+msgid "Generating structure"
+msgstr "מחולל מבנה"
+
+#: includes/Admin/AdminTranslations.php:32
+msgid "Give us a minute"
+msgstr "תנו לנו רגע"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Section background gradient"
+msgstr "צבע מעבר רקע לקטע"
+
+#: includes/Admin/AdminTranslations.php:35
+msgid "Great description! Feel free to add more details"
+msgstr "תיאור נהדר! הרגישו חופשיים להוסיף עוד פרטים"
+
+#: includes/Shortcodes/ContactForm.php:149
+msgid "Hello,"
+msgstr "שלום,"
+
+#: includes/Settings/Theme.php:60
+msgid "Hide Header"
+msgstr "הסתר כותרת עליונה"
+
+#. Author of the theme
+#: style.css
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hostinger AI theme"
+msgstr "ערכת נושא AI של Hostinger"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Hostinger AI theme built with SEO and mobile responsiveness in mind, this "
+"theme ensures optimal performance and a better online presence."
+msgstr ""
+"ערכת נושא AI של Hostinger עוצבה עם מחשבה על SEO ורספונסיביות בנייד, לכן ערכת "
+"הנושא הזו מבטיחה ביצועים אופטימליים ונוכחות אונליין טובה יותר."
+
+#: includes/Admin/Surveys.php:31
+msgid ""
+"How would you rate your experience using our AI website builder to create "
+"your site? (Scale 1-10)"
+msgstr ""
+"כיצד הייתם מדרגים את החוויה שלכם עם בונה האתרים AI שלנו על מנת ליצור את האתר "
+"שלכם? (דרגו מ-1-10)"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://hostinger.com"
+msgstr "https://hostinger.co.il"
+
+#: includes/Shortcodes/ContactForm.php:42
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in"
+msgstr "אני מסכים/ה לשימוש המידע האישי שניתן למטרת התגובה לבקשה כפי שמתוארת ב"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:37
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in Privacy Policy which I have read. I may withdraw "
+"my consent at any time."
+msgstr ""
+
+#: patterns/hidden-404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "נראה שלא נמצא דבר במיקום זה. אולי נסו חיפוש?"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:22
+msgid "Label"
+msgstr ""
+
+#: includes/Admin/AdminTranslations.php:20
+msgid "Landing"
+msgstr "נחיתה"
+
+#: includes/Admin/AdminTranslations.php:34
+msgid "Let us know more about your website to get the best result"
+msgstr "ספרו לנו עוד על האתר שלכם כדי להשיג את התוצאה הטובה ביותר"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:43
+msgid "Link to your privacy policy page"
+msgstr ""
+
+#: includes/Builder/NavigationBuilder.php:350
+msgid "Menu"
+msgstr "תפריט"
+
+#: includes/Shortcodes/ContactForm.php:78
+msgid "Message"
+msgstr "הודעה"
+
+#: includes/Shortcodes/ContactForm.php:154
+msgid "Message:"
+msgstr "הודעה:"
+
+#: includes/Shortcodes/ContactForm.php:60
+msgid "Name"
+msgstr "שם"
+
+#: includes/Shortcodes/ContactForm.php:152
+msgid "Name:"
+msgstr "שם:"
+
+#: includes/Shortcodes/ContactForm.php:132
+msgid "New Contact Form Submission"
+msgstr "הגשת טופס קשר חדשה"
+
+#: gutenberg-blocks/Booking/Booking.php:79
+msgid "No bookings yet."
+msgstr ""
+
+#: patterns/query.php:24
+msgid "No results found."
+msgstr "לא נמצאו תוצאות."
+
+#: includes/Shortcodes/ContactForm.php:176
+msgid "Not valid recipient email."
+msgstr "לא נמען אימייל תקני."
+
+#: includes/Admin/AdminTranslations.php:15
+msgid "Other"
+msgstr "אחר"
+
+#: patterns/hidden-404.php:13
+msgid "Page not found"
+msgstr "עמוד לא נמצא"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-post-meta.php
+msgctxt "Pattern title"
+msgid "Hidden post meta"
+msgstr "מטא פוסט מוסתר"
+
+#: patterns/query.php
+msgctxt "Pattern title"
+msgid "Query"
+msgstr "שאילתה"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:28
+msgid "Placeholder"
+msgstr ""
+
+#: includes/Shortcodes/ContactForm.php:123
+msgid "Please agree with privacy policy."
+msgstr "אנא אשרו את מדיניות הפרטיות."
+
+#: includes/Shortcodes/ContactForm.php:128
+msgid "Please enter a valid email address."
+msgstr "אנא הזינו כתובת אימייל תקנית."
+
+#: includes/Admin/AdminTranslations.php:16
+msgid "Portfolio"
+msgstr "פורטפוליו"
+
+#: includes/Shortcodes/ContactForm.php:44
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:39
+msgid "Privacy Policy"
+msgstr "מדיניות פרטיות"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:48
+msgid "Privacy Policy Link Text"
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:42
+msgid "Privacy Policy URL"
+msgstr ""
+
+#: includes/Rest/BuilderRoutes.php:213
+msgid "Problem building content."
+msgstr "בעיה בבניית תוכן."
+
+#: includes/Rest/BuilderRoutes.php:169
+msgid "Problem generating content."
+msgstr "בעייה ביצירת תוכן."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:56
+msgid "Required"
+msgstr ""
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:25
+msgid "Select date..."
+msgstr ""
+
+#: includes/Shortcodes/ContactForm.php:101
+msgid "Send Message"
+msgstr "שליחת הודעה"
+
+#: includes/Builder/NavigationBuilder.php:352
+msgid "Socials"
+msgstr "חברתיים"
+
+#: includes/Rest/BuilderRoutes.php:63
+msgid "Sorry, something wrong with data."
+msgstr "סליחה, משהו השתבש בנתונים."
+
+#: includes/Shortcodes/ContactForm.php:171
+msgid "Successfully submitted!"
+msgstr "הוגש בהצלחה!"
+
+#: includes/Admin/AdminTranslations.php:12
+msgid "Tell us about your site"
+msgstr "ספרו לנו על האתר שלכם"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "כותרת תחתונה"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "כותרת עליונה"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:49
+msgid "Text to display for the privacy policy link"
+msgstr ""
+
+#. translators: %s php version
+#: functions.php:36
+msgid ""
+"The Hostinger Easy Onboarding plugin requires minimum PHP version of <b>"
+"%s</b>. "
+msgstr "תוסף ההכשרה הקלה של Hostinger דורש גרסת PHP של מינימום <b>%s</b>."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:37
+msgid "The text shown with the privacy policy checkbox"
+msgstr ""
+
+#: includes/Settings/Theme.php:29 includes/Settings/Theme.php:30
+#: includes/Settings/Theme.php:122
+msgid "Theme Settings"
+msgstr "הגדרות ערכת נושא"
+
+#: includes/Admin/AdminTranslations.php:40
+msgid "This field is required"
+msgstr "שדה זה הכרחי"
+
+#: includes/Admin/AdminTranslations.php:42
+msgid "This field should not be longer than 1024 symbols."
+msgstr "על שדה זה להיות קצר מ 1,024 סמלים."
+
+#: includes/Admin/AdminTranslations.php:41
+msgid "This field should not be longer than 255 symbols."
+msgstr "על שדה זה להיות קצר מ 255 סמלים."
+
+#: includes/Admin/AdminTranslations.php:14
+msgid "Website type"
+msgstr "סוג אתר"
+
+#: includes/Shortcodes/ContactForm.php:74
+msgid "What's your email?"
+msgstr "מה האימייל שלכם?"
+
+#: includes/Shortcodes/ContactForm.php:65
+msgid "What's your name?"
+msgstr "מה השם שלכם?"
+
+#: includes/Shortcodes/ContactForm.php:46
+msgid "which I have read. I may withdraw my consent at any time."
+msgstr "שקראתי. אוכל לבטל את הסכמתי בכל עת."
+
+#: includes/Shortcodes/ContactForm.php:82
+msgid "Write your message..."
+msgstr "כתבו את ההודעה שלכם..."
+
+#: includes/Rest/BuilderRoutes.php:114 includes/Rest/BuilderRoutes.php:149
+#: includes/Rest/BuilderRoutes.php:197
+msgid "Wrong sequence of step execution."
+msgstr "סדר לא נכון של ביצוע צעדים."
+
+#. translators: %s php version
+#: functions.php:40
+msgid "You are running <b>%s</b> PHP version."
+msgstr "אתם משתמשים בגרסת PHP <b>%s</b>."
+
+#: includes/Admin/AdminTranslations.php:37
+msgid ""
+"You have already generated content. Continuing will delete all previous "
+"content. Are you sure you want to proceed?"
+msgstr ""
+"כבר יצרתם תוכן. אם תמשיכו זה ימחק את כל התוכן הקודם. האם אתם בטוחים שאתם "
+"רוצים להמשיך?"
+
+#: includes/Shortcodes/ContactForm.php:150
+msgid "You have received a new message through your website's contact form."
+msgstr "קיבלתם הודעה חדשה דרך טופס יצירת הקשר של האתר שלכם."

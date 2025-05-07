@@ -1,0 +1,648 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI theme 1.0.12\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hostinger-ai-"
+"theme\n"
+"Last-Translator: \n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-18T09:12:04+00:00\n"
+"PO-Revision-Date: 2025-03-27 19:27+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-theme\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2"
+
+#: includes/Admin/AdminTranslations.php:10
+msgid ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">Site couldn’t be created</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">That’s because of an "
+"issue on our end. Try creating your site again. </p></span>"
+msgstr ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">사이트를 만들 수 없습니다</h3> <p style=\"margin-top:"
+"0; font-size:14px; color:#727586\"> 당사 측의 문제로 인해 발생한 문제입니다. 사이트를 다시 만들어 보세요. "
+"</p></span>"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:46
+#, fuzzy
+msgid "A customizable booking form for your website"
+msgstr "웹사이트를 위한 맞춤형 예약 양식"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:126
+#, fuzzy
+msgid "Add text..."
+msgstr "텍스트 추가..."
+
+#: includes/Settings/Theme.php:94
+msgid "Adjust how elements are displayed on your website:"
+msgstr "웹사이트에 요소가 표시되는 방식을 조정합니다:"
+
+#: includes/Admin/AdminTranslations.php:18
+msgid "Affiliate marketing site"
+msgstr "제휴 마케팅 사이트"
+
+#: includes/Admin/AdminTranslations.php:11 includes/Admin/Menu.php:21
+#: includes/Admin/Menu.php:22
+msgid "AI Website Creation"
+msgstr "AI 웹사이트 제작"
+
+#: includes/Builder/NavigationBuilder.php:205
+#, fuzzy
+msgid "All rights reserved."
+msgstr "모든 권리 보유."
+
+#: includes/Shortcodes/ContactForm.php:26
+msgid "An error occurred. Please try again later."
+msgstr "오류가 발생했습니다. 나중에 다시 시도하세요."
+
+#. translators: %s php version
+#: functions.php:36
+msgid "Attention:"
+msgstr "주의:"
+
+#: includes/Admin/AdminTranslations.php:25
+msgid "Back"
+msgstr "뒤로"
+
+#: gutenberg-blocks/Booking/block.json
+#, fuzzy
+msgctxt "block description"
+msgid "A block with booking form integration"
+msgstr "예약 양식 통합 블록"
+
+#: gutenberg-blocks/Booking/block.json
+#, fuzzy
+msgctxt "block title"
+msgid "Booking Block"
+msgstr "예약 블록"
+
+#: includes/Admin/AdminTranslations.php:19
+msgid "Blog"
+msgstr "블로그"
+
+#: includes/Admin/AdminTranslations.php:21
+#, fuzzy
+msgid "Booking"
+msgstr "예약"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:45
+#, fuzzy
+msgid "Booking Form"
+msgstr "예약 양식"
+
+#: gutenberg-blocks/Booking/Booking.php:76
+#, fuzzy
+msgid "Bookings"
+msgstr "예약"
+
+#: includes/Admin/AdminTranslations.php:13
+msgid "Brand name"
+msgstr "브랜드 이름"
+
+#: includes/Admin/AdminTranslations.php:29
+msgid "Building content"
+msgstr "콘텐츠 콘텐츠"
+
+#: includes/Admin/AdminTranslations.php:17
+msgid "Business and services"
+msgstr "비즈니스 및 서비스"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:64
+#, fuzzy
+msgid "Button Settings"
+msgstr "버튼 설정"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:66
+#, fuzzy
+msgid "Button Text"
+msgstr "버튼 텍스트"
+
+#: includes/Admin/AdminTranslations.php:38
+msgid "Cancel"
+msgstr "취소"
+
+#: includes/Settings/Theme.php:110
+msgid "Check this box to hide the header element on all pages"
+msgstr "모든 페이지에서 헤더 요소를 숨기려면 이 확인란을 선택합니다"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 1 (Section backgrounds)"
+msgstr "색상 1(섹션 배경)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 2 (Section backgrounds)"
+msgstr "색상 2(섹션 배경)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 3 (Button background)"
+msgstr "색상 3(버튼 배경)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark (Text on Light and Color 1)"
+msgstr "어둡게(빛과 색상의 텍스트 1)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Grey (Form borders)"
+msgstr "회색(양식 테두리)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light (Text on Color 2 and Gradient)"
+msgstr "라이트(색상 2 및 그라데이션의 텍스트)"
+
+#: includes/Admin/AdminTranslations.php:31
+msgid "Confirm & edit"
+msgstr "확인 및 편집"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:36
+#, fuzzy
+msgid "Consent Text"
+msgstr "동의 텍스트"
+
+#: includes/Builder/NavigationBuilder.php:351
+msgid "Contacts"
+msgstr "연락처"
+
+#: includes/Admin/AdminTranslations.php:39
+msgid "Continue"
+msgstr "계속하기"
+
+#: includes/Admin/AdminTranslations.php:24
+msgid "Create"
+msgstr "만들기"
+
+#: includes/Admin/AdminTranslations.php:30
+msgid "Create again"
+msgstr "다시 만들기"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr "제목 없음"
+
+#: gutenberg-blocks/Booking/Booking.php:85
+#, fuzzy
+msgid "Date"
+msgstr "날짜"
+
+#: includes/Admin/AdminTranslations.php:22
+msgid "Describe your site"
+msgstr "사이트 설명"
+
+#: includes/Admin/AdminTranslations.php:23
+msgid "Description"
+msgstr "설명"
+
+#: includes/Shortcodes/ContactForm.php:151
+msgid "Details:"
+msgstr "세부 정보:"
+
+#: includes/Settings/Theme.php:53
+msgid "Display Settings"
+msgstr "디스플레이 설정"
+
+#: includes/Admin/Surveys.php:35
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "AI 도구를 개선하기 위한 의견이나 제안이 있으신가요?"
+
+#: includes/Hooks.php:79
+msgid "Edit site"
+msgstr "사이트 편집"
+
+#: includes/Shortcodes/ContactForm.php:69
+msgid "Email"
+msgstr "이메일"
+
+#: includes/Shortcodes/ContactForm.php:153
+msgid "Email:"
+msgstr "이메일:"
+
+#: includes/Admin/AdminTranslations.php:33
+msgid "Enter at least 11 characters"
+msgstr "11자 이상 입력"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:19
+#, fuzzy
+msgid "Enter your email..."
+msgstr "이메일 입력..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:31
+#, fuzzy
+msgid "Enter your message..."
+msgstr "메시지 입력..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:13
+#, fuzzy
+msgid "Enter your name..."
+msgstr "이름 입력..."
+
+#: includes/Admin/AdminTranslations.php:36
+msgid "Existing content will be deleted"
+msgstr "기존 콘텐츠가 삭제됩니다"
+
+#: includes/Admin/Templates/featured-image-metabox.php:7
+msgid "External image can be used to show featured image."
+msgstr "외부 이미지를 사용하여 추천 이미지를 표시할 수 있습니다."
+
+#: includes/Admin/Templates/featured-image-metabox.php:12
+msgid "External Image URL"
+msgstr "외부 이미지 URL"
+
+#: includes/Shortcodes/ContactForm.php:173
+msgid "Failed to send email. Please try again later."
+msgstr "이메일을 보내지 못했습니다. 나중에 다시 시도하세요."
+
+#: includes/Admin/Hooks.php:33
+msgid "Featured Image with URL"
+msgstr "URL이 포함된 추천 이미지"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:18
+#, fuzzy
+msgid "Field Settings"
+msgstr "필드 설정"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "모노스페이스"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "시스템"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Large"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Small"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/Admin/AdminTranslations.php:26
+msgid "Generating colors"
+msgstr "색상 생성"
+
+#: includes/Admin/AdminTranslations.php:28
+msgid "Generating content"
+msgstr "콘텐츠 생성"
+
+#: includes/Admin/AdminTranslations.php:27
+msgid "Generating structure"
+msgstr "생성 구조"
+
+#: includes/Admin/AdminTranslations.php:32
+msgid "Give us a minute"
+msgstr "잠시만 기다려주세요"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Section background gradient"
+msgstr "섹션 배경 그라데이션"
+
+#: includes/Admin/AdminTranslations.php:35
+msgid "Great description! Feel free to add more details"
+msgstr "훌륭한 설명입니다! 자세한 내용을 추가해 주세요"
+
+#: includes/Shortcodes/ContactForm.php:149
+msgid "Hello,"
+msgstr "안녕하세요,"
+
+#: includes/Settings/Theme.php:60
+msgid "Hide Header"
+msgstr "헤더 숨기기"
+
+#. Author of the theme
+#: style.css
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hostinger AI theme"
+msgstr "Hostinger AI 테마"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Hostinger AI theme built with SEO and mobile responsiveness in mind, this "
+"theme ensures optimal performance and a better online presence."
+msgstr "SEO와 모바일 응답성을 염두에 두고 제작된 이 테마는 최적의 성능과 더 나은 온라인 존재감을 보장합니다."
+
+#: includes/Admin/Surveys.php:31
+msgid ""
+"How would you rate your experience using our AI website builder to create "
+"your site? (Scale 1-10)"
+msgstr "AI 웹사이트 빌더를 사용하여 사이트를 만든 경험에 대해 어떻게 평가하시겠습니까? (1~10점 척도)"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com"
+
+#: includes/Shortcodes/ContactForm.php:42
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in"
+msgstr "아래에 설명된 요청에 응답하기 위한 목적으로 제공된 개인 데이터를 사용하는 데 동의합니다"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:37
+#, fuzzy
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in Privacy Policy which I have read. I may withdraw "
+"my consent at any time."
+msgstr ""
+"본인은 개인정보 처리방침에 설명된 대로 요청에 응답하기 위한 목적으로 제공한 개인 데이터를 사용하는 데 동의합니다. 본인은 언제든지 "
+"동의를 철회할 수 있습니다."
+
+#: patterns/hidden-404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "이 위치에서 아무것도 발견되지 않은 것 같습니다. 검색을 해보시겠습니까?"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:22
+#, fuzzy
+msgid "Label"
+msgstr "라벨"
+
+#: includes/Admin/AdminTranslations.php:20
+msgid "Landing"
+msgstr "랜딩"
+
+#: includes/Admin/AdminTranslations.php:34
+msgid "Let us know more about your website to get the best result"
+msgstr "최상의 결과를 얻으려면 웹사이트에 대한 자세한 정보를 알려주세요"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:43
+#, fuzzy
+msgid "Link to your privacy policy page"
+msgstr "개인정보처리방침 페이지로 연결되는 링크"
+
+#: includes/Builder/NavigationBuilder.php:350
+msgid "Menu"
+msgstr "메뉴"
+
+#: includes/Shortcodes/ContactForm.php:78
+msgid "Message"
+msgstr "메시지"
+
+#: includes/Shortcodes/ContactForm.php:154
+msgid "Message:"
+msgstr "메시지:"
+
+#: includes/Shortcodes/ContactForm.php:60
+msgid "Name"
+msgstr "이름"
+
+#: includes/Shortcodes/ContactForm.php:152
+msgid "Name:"
+msgstr "이름:"
+
+#: includes/Shortcodes/ContactForm.php:132
+msgid "New Contact Form Submission"
+msgstr "새 문의 양식 제출"
+
+#: gutenberg-blocks/Booking/Booking.php:79
+#, fuzzy
+msgid "No bookings yet."
+msgstr "아직 예약이 없습니다."
+
+#: patterns/query.php:24
+msgid "No results found."
+msgstr "결과를 찾을 수 없습니다."
+
+#: includes/Shortcodes/ContactForm.php:176
+msgid "Not valid recipient email."
+msgstr "수신자 이메일이 유효하지 않습니다."
+
+#: includes/Admin/AdminTranslations.php:15
+msgid "Other"
+msgstr "기타"
+
+#: patterns/hidden-404.php:13
+msgid "Page not found"
+msgstr "페이지를 찾을 수 없습니다"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-post-meta.php
+msgctxt "Pattern title"
+msgid "Hidden post meta"
+msgstr "숨겨진 게시물 메타"
+
+#: patterns/query.php
+msgctxt "Pattern title"
+msgid "Query"
+msgstr "쿼리"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:28
+#, fuzzy
+msgid "Placeholder"
+msgstr "자리 표시자"
+
+#: includes/Shortcodes/ContactForm.php:123
+msgid "Please agree with privacy policy."
+msgstr "개인정보 취급방침에 동의해 주세요."
+
+#: includes/Shortcodes/ContactForm.php:128
+msgid "Please enter a valid email address."
+msgstr "유효한 이메일 주소를 입력하세요."
+
+#: includes/Admin/AdminTranslations.php:16
+msgid "Portfolio"
+msgstr "포트폴리오"
+
+#: includes/Shortcodes/ContactForm.php:44
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:39
+msgid "Privacy Policy"
+msgstr "개인정보 보호정책"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:48
+#, fuzzy
+msgid "Privacy Policy Link Text"
+msgstr "개인정보 처리방침 링크 텍스트"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:42
+#, fuzzy
+msgid "Privacy Policy URL"
+msgstr "개인정보 처리방침 URL"
+
+#: includes/Rest/BuilderRoutes.php:213
+msgid "Problem building content."
+msgstr "콘텐츠 구축 문제."
+
+#: includes/Rest/BuilderRoutes.php:169
+msgid "Problem generating content."
+msgstr "콘텐츠 생성에 문제가 있습니다."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:56
+#, fuzzy
+msgid "Required"
+msgstr "필수"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:25
+#, fuzzy
+msgid "Select date..."
+msgstr "날짜 선택..."
+
+#: includes/Shortcodes/ContactForm.php:101
+msgid "Send Message"
+msgstr "메시지 보내기"
+
+#: includes/Builder/NavigationBuilder.php:352
+msgid "Socials"
+msgstr "소셜"
+
+#: includes/Rest/BuilderRoutes.php:63
+msgid "Sorry, something wrong with data."
+msgstr "죄송합니다. 데이터에 문제가 있습니다."
+
+#: includes/Shortcodes/ContactForm.php:171
+msgid "Successfully submitted!"
+msgstr "제출에 성공했습니다!"
+
+#: includes/Admin/AdminTranslations.php:12
+msgid "Tell us about your site"
+msgstr "사이트에 대해 알려주세요"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "푸터"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "헤더"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:49
+#, fuzzy
+msgid "Text to display for the privacy policy link"
+msgstr "개인정보처리방침 링크에 표시할 텍스트"
+
+#. translators: %s php version
+#: functions.php:36
+msgid ""
+"The Hostinger Easy Onboarding plugin requires minimum PHP version of <b>"
+"%s</b>. "
+msgstr "Hostinger 간편 온보딩 플러그인에는 최소 PHP 버전 <b>%s</b>가 필요합니다."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:37
+#, fuzzy
+msgid "The text shown with the privacy policy checkbox"
+msgstr "개인정보처리방침 확인란과 함께 표시되는 텍스트"
+
+#: includes/Settings/Theme.php:29 includes/Settings/Theme.php:30
+#: includes/Settings/Theme.php:122
+msgid "Theme Settings"
+msgstr "테마 설정"
+
+#: includes/Admin/AdminTranslations.php:40
+msgid "This field is required"
+msgstr "이 필드는 필수 입력 사항입니다"
+
+#: includes/Admin/AdminTranslations.php:42
+msgid "This field should not be longer than 1024 symbols."
+msgstr "이 필드는 기호가 1024개를 초과할 수 없습니다."
+
+#: includes/Admin/AdminTranslations.php:41
+msgid "This field should not be longer than 255 symbols."
+msgstr "이 필드는 255개 이상의 기호를 입력할 수 없습니다."
+
+#: includes/Admin/AdminTranslations.php:14
+msgid "Website type"
+msgstr "웹사이트 유형"
+
+#: includes/Shortcodes/ContactForm.php:74
+msgid "What's your email?"
+msgstr "이메일이 무엇인가요?"
+
+#: includes/Shortcodes/ContactForm.php:65
+msgid "What's your name?"
+msgstr "이름이 무엇인가요?"
+
+#: includes/Shortcodes/ContactForm.php:46
+msgid "which I have read. I may withdraw my consent at any time."
+msgstr "이미 읽었습니다. 본인은 언제든지 동의를 철회할 수 있습니다."
+
+#: includes/Shortcodes/ContactForm.php:82
+msgid "Write your message..."
+msgstr "메시지 작성하기..."
+
+#: includes/Rest/BuilderRoutes.php:114 includes/Rest/BuilderRoutes.php:149
+#: includes/Rest/BuilderRoutes.php:197
+msgid "Wrong sequence of step execution."
+msgstr "단계 실행 순서가 잘못되었습니다."
+
+#. translators: %s php version
+#: functions.php:40
+msgid "You are running <b>%s</b> PHP version."
+msgstr "<b>%s</b> PHP 버전을 실행 중입니다."
+
+#: includes/Admin/AdminTranslations.php:37
+msgid ""
+"You have already generated content. Continuing will delete all previous "
+"content. Are you sure you want to proceed?"
+msgstr "이미 콘텐츠를 생성했습니다. 계속하면 이전 콘텐츠가 모두 삭제됩니다. 계속하시겠습니까?"
+
+#: includes/Shortcodes/ContactForm.php:150
+msgid "You have received a new message through your website's contact form."
+msgstr "웹사이트의 문의 양식을 통해 새 메시지를 받았습니다."

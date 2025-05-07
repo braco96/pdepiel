@@ -1,0 +1,659 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI theme 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hostinger-ai-"
+"theme\n"
+"Last-Translator: Maher Souilah\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-17T07:01:03+00:00\n"
+"PO-Revision-Date: 2025-03-27 19:23+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-theme\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2"
+
+#: includes/Admin/AdminTranslations.php:10
+msgid ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">Site couldn’t be created</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">That’s because of an "
+"issue on our end. Try creating your site again. </p></span>"
+msgstr ""
+"<span style=\"display:flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">تعذر إنشاء هذا الموقع</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">وذلك يعود إلى مشكلة من "
+"جانبنا. حاول إنشاء موقعك مرة أخرى. </p></p/span>"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:46
+#, fuzzy
+msgid "A customizable booking form for your website"
+msgstr "نموذج حجز قابل للتخصيص لموقعك الإلكتروني"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:126
+#, fuzzy
+msgid "Add text..."
+msgstr "إضافة نص..."
+
+#: includes/Settings/Theme.php:94
+msgid "Adjust how elements are displayed on your website:"
+msgstr "اضبط كيفية عرض العناصر على موقعك الإلكتروني:"
+
+#: includes/Admin/AdminTranslations.php:18
+msgid "Affiliate marketing site"
+msgstr "موقع التسويق بالعمولة"
+
+#: includes/Admin/AdminTranslations.php:11 includes/Admin/Menu.php:21
+#: includes/Admin/Menu.php:22
+msgid "AI Website Creation"
+msgstr "إنشاء موقع إلكتروني بالذكاء الاصطناعي"
+
+#: includes/Builder/NavigationBuilder.php:205
+#, fuzzy
+msgid "All rights reserved."
+msgstr "جميع الحقوق محفوظة."
+
+#: includes/Shortcodes/ContactForm.php:26
+msgid "An error occurred. Please try again later."
+msgstr "حدث خطأ. يرجى المحاولة مرة أخرى لاحقاً."
+
+#. translators: %s php version
+#: functions.php:36
+msgid "Attention:"
+msgstr "انتباه:"
+
+#: includes/Admin/AdminTranslations.php:25
+msgid "Back"
+msgstr "العودة"
+
+#: gutenberg-blocks/Booking/block.json
+#, fuzzy
+msgctxt "block description"
+msgid "A block with booking form integration"
+msgstr "كتلة مع تكامل نموذج الحجز"
+
+#: gutenberg-blocks/Booking/block.json
+#, fuzzy
+msgctxt "block title"
+msgid "Booking Block"
+msgstr "كتلة الحجز"
+
+#: includes/Admin/AdminTranslations.php:19
+msgid "Blog"
+msgstr "المدونة"
+
+#: includes/Admin/AdminTranslations.php:21
+#, fuzzy
+msgid "Booking"
+msgstr "الحجز"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:45
+#, fuzzy
+msgid "Booking Form"
+msgstr "استمارة الحجز"
+
+#: gutenberg-blocks/Booking/Booking.php:76
+#, fuzzy
+msgid "Bookings"
+msgstr "الحجوزات"
+
+#: includes/Admin/AdminTranslations.php:13
+msgid "Brand name"
+msgstr "اسم العلامة التجارية"
+
+#: includes/Admin/AdminTranslations.php:29
+msgid "Building content"
+msgstr "إنشاء المحتوى"
+
+#: includes/Admin/AdminTranslations.php:17
+msgid "Business and services"
+msgstr "الأعمال والخدمات"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:64
+#, fuzzy
+msgid "Button Settings"
+msgstr "إعدادات الأزرار"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:66
+#, fuzzy
+msgid "Button Text"
+msgstr "نص الزر"
+
+#: includes/Admin/AdminTranslations.php:38
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: includes/Settings/Theme.php:110
+msgid "Check this box to hide the header element on all pages"
+msgstr "حدد هذا المربع لإخفاء عنصر الترويسة في جميع الصفحات"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 1 (Section backgrounds)"
+msgstr "اللون 1 (خلفيات القسم)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 2 (Section backgrounds)"
+msgstr "اللون 2 (خلفيات القسم)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 3 (Button background)"
+msgstr "اللون 3 (خلفية الزر)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark (Text on Light and Color 1)"
+msgstr "داكن (نص فاتح باللون 1)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Grey (Form borders)"
+msgstr "رمادي (حدود الشكل)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light (Text on Color 2 and Gradient)"
+msgstr "فاتح (نص على اللون 2 ومتدرج)"
+
+#: includes/Admin/AdminTranslations.php:31
+msgid "Confirm & edit"
+msgstr "تأكيد وتحرير"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:36
+#, fuzzy
+msgid "Consent Text"
+msgstr "نص الموافقة"
+
+#: includes/Builder/NavigationBuilder.php:351
+msgid "Contacts"
+msgstr "جهات الاتصال"
+
+#: includes/Admin/AdminTranslations.php:39
+msgid "Continue"
+msgstr "المتابعة"
+
+#: includes/Admin/AdminTranslations.php:24
+msgid "Create"
+msgstr "إنشاء"
+
+#: includes/Admin/AdminTranslations.php:30
+msgid "Create again"
+msgstr "إنشاء مرة أخرى"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr "لا يوجد عنوان"
+
+#: gutenberg-blocks/Booking/Booking.php:85
+#, fuzzy
+msgid "Date"
+msgstr "التاريخ"
+
+#: includes/Admin/AdminTranslations.php:22
+msgid "Describe your site"
+msgstr "صِف موقعك"
+
+#: includes/Admin/AdminTranslations.php:23
+msgid "Description"
+msgstr "الوصف"
+
+#: includes/Shortcodes/ContactForm.php:151
+msgid "Details:"
+msgstr "التفاصيل:"
+
+#: includes/Settings/Theme.php:53
+msgid "Display Settings"
+msgstr "إعدادات العرض"
+
+#: includes/Admin/Surveys.php:35
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "هل لديك أي تعليقات/اقتراحات لتحسين أدوات الذكاء الاصطناعي لدينا؟"
+
+#: includes/Hooks.php:79
+msgid "Edit site"
+msgstr "تحرير الموقع"
+
+#: includes/Shortcodes/ContactForm.php:69
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: includes/Shortcodes/ContactForm.php:153
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
+
+#: includes/Admin/AdminTranslations.php:33
+msgid "Enter at least 11 characters"
+msgstr "أدخل 11 حرفاً على الأقل"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:19
+#, fuzzy
+msgid "Enter your email..."
+msgstr "أدخل بريدك الإلكتروني..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:31
+#, fuzzy
+msgid "Enter your message..."
+msgstr "أدخل رسالتك..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:13
+#, fuzzy
+msgid "Enter your name..."
+msgstr "أدخل اسمك..."
+
+#: includes/Admin/AdminTranslations.php:36
+msgid "Existing content will be deleted"
+msgstr "سيتم حذف المحتوى الحالي"
+
+#: includes/Admin/Templates/featured-image-metabox.php:7
+msgid "External image can be used to show featured image."
+msgstr "يمكن استخدام صورة خارجية لإظهار الصورة المميزة."
+
+#: includes/Admin/Templates/featured-image-metabox.php:12
+msgid "External Image URL"
+msgstr "عنوان URL للصورة الخارجية"
+
+#: includes/Shortcodes/ContactForm.php:173
+msgid "Failed to send email. Please try again later."
+msgstr "فشل إرسال البريد الإلكتروني. يرجى المحاولة مرة أخرى لاحقاً."
+
+#: includes/Admin/Hooks.php:33
+msgid "Featured Image with URL"
+msgstr "صورة مميزة مع عنوان URL"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:18
+#, fuzzy
+msgid "Field Settings"
+msgstr "إعدادات الحقل"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "النظام"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "كبير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "متوسط"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "صغير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/Admin/AdminTranslations.php:26
+msgid "Generating colors"
+msgstr "توليد الألوان"
+
+#: includes/Admin/AdminTranslations.php:28
+msgid "Generating content"
+msgstr "إنشاء المحتوى"
+
+#: includes/Admin/AdminTranslations.php:27
+msgid "Generating structure"
+msgstr "هيكل التوليد"
+
+#: includes/Admin/AdminTranslations.php:32
+msgid "Give us a minute"
+msgstr "امنحنا دقيقة"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Section background gradient"
+msgstr "تدرج خلفية القسم"
+
+#: includes/Admin/AdminTranslations.php:35
+msgid "Great description! Feel free to add more details"
+msgstr "وصف رائع! لا تتردد في إضافة المزيد من التفاصيل"
+
+#: includes/Shortcodes/ContactForm.php:149
+msgid "Hello,"
+msgstr "مرحباً،"
+
+#: includes/Settings/Theme.php:60
+msgid "Hide Header"
+msgstr "إخفاء الترويسة"
+
+#. Author of the theme
+#: style.css
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hostinger AI theme"
+msgstr "قالب AI من Hostinger"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Hostinger AI theme built with SEO and mobile responsiveness in mind, this "
+"theme ensures optimal performance and a better online presence."
+msgstr ""
+"قالب AI من Hostinger تم تصميمع مع مراعاة تحسين محركات البحث والاستجابة "
+"للهواتف المحمولة، يضمن لك هذا القالب الأداء الأمثل والحضور الأفضل على "
+"الإنترنت."
+
+#: includes/Admin/Surveys.php:31
+msgid ""
+"How would you rate your experience using our AI website builder to create "
+"your site? (Scale 1-10)"
+msgstr ""
+"كيف تقيّم تجربة استخدامك لمنشئ المواقع AI لإنشاء موقعك الإلكتروني؟ (من 1 إلى "
+"10)"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com"
+
+#: includes/Shortcodes/ContactForm.php:42
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in"
+msgstr ""
+"أوافق على استخدام البيانات الشخصية المقدمة لغرض الاستجابة للطلب على النحو "
+"الموضح في"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:37
+#, fuzzy
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in Privacy Policy which I have read. I may withdraw "
+"my consent at any time."
+msgstr ""
+"أوافق على استخدام البيانات الشخصية المقدمة لغرض الاستجابة للطلب كما هو موضح "
+"في سياسة الخصوصية التي قرأتها. يجوز لي سحب موافقتي في أي وقت."
+
+#: patterns/hidden-404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لم يتم العثور على أي شيء في هذا الموقع. جرب ميزة البحث!"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:22
+#, fuzzy
+msgid "Label"
+msgstr "التسمية"
+
+#: includes/Admin/AdminTranslations.php:20
+msgid "Landing"
+msgstr "الهبوط"
+
+#: includes/Admin/AdminTranslations.php:34
+msgid "Let us know more about your website to get the best result"
+msgstr "شارك مزيداً من المعلومات حول موقعك الإلكتروني للحصول على أفضل نتيجة"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:43
+#, fuzzy
+msgid "Link to your privacy policy page"
+msgstr "رابط إلى صفحة سياسة الخصوصية"
+
+#: includes/Builder/NavigationBuilder.php:350
+msgid "Menu"
+msgstr "القائمة"
+
+#: includes/Shortcodes/ContactForm.php:78
+msgid "Message"
+msgstr "الرسالة"
+
+#: includes/Shortcodes/ContactForm.php:154
+msgid "Message:"
+msgstr "الرسالة:"
+
+#: includes/Shortcodes/ContactForm.php:60
+msgid "Name"
+msgstr "الاسم"
+
+#: includes/Shortcodes/ContactForm.php:152
+msgid "Name:"
+msgstr "الاسم:"
+
+#: includes/Shortcodes/ContactForm.php:132
+msgid "New Contact Form Submission"
+msgstr "تقديم نموذج الاتصال الجديد"
+
+#: gutenberg-blocks/Booking/Booking.php:79
+#, fuzzy
+msgid "No bookings yet."
+msgstr "لا توجد حجوزات بعد."
+
+#: patterns/query.php:24
+msgid "No results found."
+msgstr "لم يتم العثور على نتائج."
+
+#: includes/Shortcodes/ContactForm.php:176
+msgid "Not valid recipient email."
+msgstr "البريد الإلكتروني للمستلم غير صالح."
+
+#: includes/Admin/AdminTranslations.php:15
+msgid "Other"
+msgstr "آخر"
+
+#: patterns/hidden-404.php:13
+msgid "Page not found"
+msgstr "الصفحة غير موجودة"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-post-meta.php
+msgctxt "Pattern title"
+msgid "Hidden post meta"
+msgstr "تعريف المنشور المخفي"
+
+#: patterns/query.php
+msgctxt "Pattern title"
+msgid "Query"
+msgstr "استعلام"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:28
+#, fuzzy
+msgid "Placeholder"
+msgstr "العنصر النائب"
+
+#: includes/Shortcodes/ContactForm.php:123
+msgid "Please agree with privacy policy."
+msgstr "يُرجى الموافقة على سياسة الخصوصية."
+
+#: includes/Shortcodes/ContactForm.php:128
+msgid "Please enter a valid email address."
+msgstr "الرجاء إدخال عنوان بريد إلكتروني صحيح."
+
+#: includes/Admin/AdminTranslations.php:16
+msgid "Portfolio"
+msgstr "المحفظة"
+
+#: includes/Shortcodes/ContactForm.php:44
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:39
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:48
+#, fuzzy
+msgid "Privacy Policy Link Text"
+msgstr "نص رابط سياسة الخصوصية"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:42
+#, fuzzy
+msgid "Privacy Policy URL"
+msgstr "عنوان URL لسياسة الخصوصية"
+
+#: includes/Rest/BuilderRoutes.php:213
+msgid "Problem building content."
+msgstr "مشكلة في إنشاء المحتوى."
+
+#: includes/Rest/BuilderRoutes.php:169
+msgid "Problem generating content."
+msgstr "مشكلة في توليد المحتوى."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:56
+#, fuzzy
+msgid "Required"
+msgstr "مطلوب"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:25
+#, fuzzy
+msgid "Select date..."
+msgstr "اختر التاريخ..."
+
+#: includes/Shortcodes/ContactForm.php:101
+msgid "Send Message"
+msgstr "إرسال رسالة"
+
+#: includes/Builder/NavigationBuilder.php:352
+msgid "Socials"
+msgstr "مواقع التواصل الاجتماعي"
+
+#: includes/Rest/BuilderRoutes.php:63
+msgid "Sorry, something wrong with data."
+msgstr "عذراً، هناك خطأ ما في البيانات."
+
+#: includes/Shortcodes/ContactForm.php:171
+msgid "Successfully submitted!"
+msgstr "تم التقديم بنجاح!"
+
+#: includes/Admin/AdminTranslations.php:12
+msgid "Tell us about your site"
+msgstr "شارك معنا معلومات حول موقعك"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "التذييل"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "الرأس"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:49
+#, fuzzy
+msgid "Text to display for the privacy policy link"
+msgstr "النص المراد عرضه لرابط سياسة الخصوصية"
+
+#. translators: %s php version
+#: functions.php:36
+msgid ""
+"The Hostinger Easy Onboarding plugin requires minimum PHP version of <b>"
+"%s</b>. "
+msgstr ""
+"تتطلب إضافة Hostinger Easy Onboarding  <b>%s</b> كحد أدنى من إصدار PHP."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:37
+#, fuzzy
+msgid "The text shown with the privacy policy checkbox"
+msgstr "النص المعروض مع خانة اختيار سياسة الخصوصية"
+
+#: includes/Settings/Theme.php:29 includes/Settings/Theme.php:30
+#: includes/Settings/Theme.php:122
+msgid "Theme Settings"
+msgstr "إعدادات القالب"
+
+#: includes/Admin/AdminTranslations.php:40
+msgid "This field is required"
+msgstr "هذا الحقل مطلوب"
+
+#: includes/Admin/AdminTranslations.php:42
+msgid "This field should not be longer than 1024 symbols."
+msgstr "يجب ألا يزيد طول هذا الحقل عن 1024 رمزاً."
+
+#: includes/Admin/AdminTranslations.php:41
+msgid "This field should not be longer than 255 symbols."
+msgstr "يجب ألا يزيد طول هذا الحقل عن 255 رمزاً."
+
+#: includes/Admin/AdminTranslations.php:14
+msgid "Website type"
+msgstr "نوع الموقع الإلكتروني"
+
+#: includes/Shortcodes/ContactForm.php:74
+msgid "What's your email?"
+msgstr "ما هو بريدك الإلكتروني؟"
+
+#: includes/Shortcodes/ContactForm.php:65
+msgid "What's your name?"
+msgstr "ما اسمك؟"
+
+#: includes/Shortcodes/ContactForm.php:46
+msgid "which I have read. I may withdraw my consent at any time."
+msgstr "التي قرأتها. يمكنني سحب موافقتي في أي وقت."
+
+#: includes/Shortcodes/ContactForm.php:82
+msgid "Write your message..."
+msgstr "اكتب رسالتك..."
+
+#: includes/Rest/BuilderRoutes.php:114 includes/Rest/BuilderRoutes.php:149
+#: includes/Rest/BuilderRoutes.php:197
+msgid "Wrong sequence of step execution."
+msgstr "تسلسل خاطئ في تنفيذ الخطوات."
+
+#. translators: %s php version
+#: functions.php:40
+msgid "You are running <b>%s</b> PHP version."
+msgstr "أنت تقوم بتشغيل إصدار PHP <b>%s</b>."
+
+#: includes/Admin/AdminTranslations.php:37
+msgid ""
+"You have already generated content. Continuing will delete all previous "
+"content. Are you sure you want to proceed?"
+msgstr ""
+"لقد قمت بالفعل بإنشاء محتوى. ستؤدي المتابعة إلى حذف كل المحتوى السابق. هل "
+"أنت متأكد أنك تريد المتابعة؟"
+
+#: includes/Shortcodes/ContactForm.php:150
+msgid "You have received a new message through your website's contact form."
+msgstr "لقد تلقيت رسالة جديدة من خلال نموذج الاتصال الخاص بموقعك الإلكتروني."

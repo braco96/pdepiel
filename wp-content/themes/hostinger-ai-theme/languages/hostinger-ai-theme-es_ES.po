@@ -1,0 +1,670 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI theme 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hostinger-ai-"
+"theme\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-17T07:01:03+00:00\n"
+"PO-Revision-Date: 2025-03-27 19:29+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-theme\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2"
+
+#: includes/Admin/AdminTranslations.php:10
+msgid ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">Site couldn’t be created</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">That’s because of an "
+"issue on our end. Try creating your site again. </p></span>"
+msgstr ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">No se ha podido crear el sitio web</h3> "
+"<p style=\"margin-top:0; font-size:14px; color:#727586\">Esto se debe a un "
+"problema nuestro. Intenta crear tu sitio web de nuevo. </p></span>"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:46
+#, fuzzy
+msgid "A customizable booking form for your website"
+msgstr "Un formulario de reserva personalizable para su sitio web"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:126
+#, fuzzy
+msgid "Add text..."
+msgstr "Añadir texto..."
+
+#: includes/Settings/Theme.php:94
+msgid "Adjust how elements are displayed on your website:"
+msgstr "Ajusta cómo se muestran los elementos en tu sitio web:"
+
+#: includes/Admin/AdminTranslations.php:18
+msgid "Affiliate marketing site"
+msgstr "Sitio web de marketing de afiliados"
+
+#: includes/Admin/AdminTranslations.php:11 includes/Admin/Menu.php:21
+#: includes/Admin/Menu.php:22
+msgid "AI Website Creation"
+msgstr "Creación de sitios web con IA"
+
+#: includes/Builder/NavigationBuilder.php:205
+#, fuzzy
+msgid "All rights reserved."
+msgstr "Todos los derechos reservados."
+
+#: includes/Shortcodes/ContactForm.php:26
+msgid "An error occurred. Please try again later."
+msgstr "Se ha producido un error. Por favor, vuelve a intentarlo más tarde."
+
+#. translators: %s php version
+#: functions.php:36
+msgid "Attention:"
+msgstr "Atención:"
+
+#: includes/Admin/AdminTranslations.php:25
+msgid "Back"
+msgstr "Volver"
+
+#: gutenberg-blocks/Booking/block.json
+#, fuzzy
+msgctxt "block description"
+msgid "A block with booking form integration"
+msgstr "Un bloque con integración del formulario de reserva"
+
+#: gutenberg-blocks/Booking/block.json
+#, fuzzy
+msgctxt "block title"
+msgid "Booking Block"
+msgstr "Bloque de reservas"
+
+#: includes/Admin/AdminTranslations.php:19
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/Admin/AdminTranslations.php:21
+#, fuzzy
+msgid "Booking"
+msgstr "Reservas"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:45
+#, fuzzy
+msgid "Booking Form"
+msgstr "Formulario de reserva"
+
+#: gutenberg-blocks/Booking/Booking.php:76
+#, fuzzy
+msgid "Bookings"
+msgstr "Reservas"
+
+#: includes/Admin/AdminTranslations.php:13
+msgid "Brand name"
+msgstr "Marca"
+
+#: includes/Admin/AdminTranslations.php:29
+msgid "Building content"
+msgstr "Creando contenido"
+
+#: includes/Admin/AdminTranslations.php:17
+msgid "Business and services"
+msgstr "Empresas y servicios"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:64
+#, fuzzy
+msgid "Button Settings"
+msgstr "Configuración de botones"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:66
+#, fuzzy
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: includes/Admin/AdminTranslations.php:38
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/Settings/Theme.php:110
+msgid "Check this box to hide the header element on all pages"
+msgstr ""
+"Marca esta casilla para ocultar el elemento de cabecera en todas las páginas"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 1 (Section backgrounds)"
+msgstr "Color 1 (Sección fondos)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 2 (Section backgrounds)"
+msgstr "Color 2 (Sección fondos)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 3 (Button background)"
+msgstr "Color 3 (Sección fondos)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark (Text on Light and Color 1)"
+msgstr "Oscuro (Texto en claro y color 1)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Grey (Form borders)"
+msgstr "Gris (bordes del formulario)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light (Text on Color 2 and Gradient)"
+msgstr "Claro (Texto en color 2 y degradado)"
+
+#: includes/Admin/AdminTranslations.php:31
+msgid "Confirm & edit"
+msgstr "Confirmar y editar"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:36
+#, fuzzy
+msgid "Consent Text"
+msgstr "Texto de consentimiento"
+
+#: includes/Builder/NavigationBuilder.php:351
+msgid "Contacts"
+msgstr "Contactos"
+
+#: includes/Admin/AdminTranslations.php:39
+msgid "Continue"
+msgstr "Continuar"
+
+#: includes/Admin/AdminTranslations.php:24
+msgid "Create"
+msgstr "Crear"
+
+#: includes/Admin/AdminTranslations.php:30
+msgid "Create again"
+msgstr "Crear de nuevo"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr "Sin título"
+
+#: gutenberg-blocks/Booking/Booking.php:85
+#, fuzzy
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/Admin/AdminTranslations.php:22
+msgid "Describe your site"
+msgstr "Describe tu sitio web"
+
+#: includes/Admin/AdminTranslations.php:23
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/Shortcodes/ContactForm.php:151
+msgid "Details:"
+msgstr "Detalles:"
+
+#: includes/Settings/Theme.php:53
+msgid "Display Settings"
+msgstr "Ajustes de pantalla"
+
+#: includes/Admin/Surveys.php:35
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr ""
+"¿Tiene algún comentario o sugerencia para mejorar nuestras herramientas con "
+"IA?"
+
+#: includes/Hooks.php:79
+msgid "Edit site"
+msgstr "Editar sitio web"
+
+#: includes/Shortcodes/ContactForm.php:69
+msgid "Email"
+msgstr "Email"
+
+#: includes/Shortcodes/ContactForm.php:153
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/Admin/AdminTranslations.php:33
+msgid "Enter at least 11 characters"
+msgstr "Introduce al menos 11 caracteres"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:19
+#, fuzzy
+msgid "Enter your email..."
+msgstr "Introduce tu correo electrónico..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:31
+#, fuzzy
+msgid "Enter your message..."
+msgstr "Escriba su mensaje..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:13
+#, fuzzy
+msgid "Enter your name..."
+msgstr "Introduce tu nombre..."
+
+#: includes/Admin/AdminTranslations.php:36
+msgid "Existing content will be deleted"
+msgstr "Se eliminará el contenido existente"
+
+#: includes/Admin/Templates/featured-image-metabox.php:7
+msgid "External image can be used to show featured image."
+msgstr "La imagen externa se puede usar para mostrar la imagen destacada."
+
+#: includes/Admin/Templates/featured-image-metabox.php:12
+msgid "External Image URL"
+msgstr "URL de imagen externa"
+
+#: includes/Shortcodes/ContactForm.php:173
+msgid "Failed to send email. Please try again later."
+msgstr ""
+"No se ha podido enviar el email. Por favor, vuelve a intentarlo más tarde."
+
+#: includes/Admin/Hooks.php:33
+msgid "Featured Image with URL"
+msgstr "Imagen destacada con URL"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:18
+#, fuzzy
+msgid "Field Settings"
+msgstr "Ajustes de campo"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "Sistema"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medio"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/Admin/AdminTranslations.php:26
+msgid "Generating colors"
+msgstr "Generando colores"
+
+#: includes/Admin/AdminTranslations.php:28
+msgid "Generating content"
+msgstr "Generando cotenido"
+
+#: includes/Admin/AdminTranslations.php:27
+msgid "Generating structure"
+msgstr "Generando estructura"
+
+#: includes/Admin/AdminTranslations.php:32
+msgid "Give us a minute"
+msgstr "Danos un minuto"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Section background gradient"
+msgstr "Sección de degradado de fondo"
+
+#: includes/Admin/AdminTranslations.php:35
+msgid "Great description! Feel free to add more details"
+msgstr "¡Gran descripción! No dudes en añadir más detalles"
+
+#: includes/Shortcodes/ContactForm.php:149
+msgid "Hello,"
+msgstr "Hola,"
+
+#: includes/Settings/Theme.php:60
+msgid "Hide Header"
+msgstr "Ocultar cabecera"
+
+#. Author of the theme
+#: style.css
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hostinger AI theme"
+msgstr "Tema de Hostinger con IA"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Hostinger AI theme built with SEO and mobile responsiveness in mind, this "
+"theme ensures optimal performance and a better online presence."
+msgstr ""
+"El tema de Hostinger con IA, creado teniendo en cuenta la optimización para "
+"motores de búsqueda (SEO) y la capacidad de respuesta en dispositivos "
+"móviles, garantiza un rendimiento óptimo y una mejor presencia en Internet."
+
+#: includes/Admin/Surveys.php:31
+msgid ""
+"How would you rate your experience using our AI website builder to create "
+"your site? (Scale 1-10)"
+msgstr ""
+"¿Cómo calificarías tu experiencia al usar nuestro Creador de sitios web con "
+"IA para crear tu sitio web? (Escala 1-10)"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://hostinger.com"
+msgstr "https://hostinger.es"
+
+#: includes/Shortcodes/ContactForm.php:42
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in"
+msgstr ""
+"Autorizo el uso de los datos personales facilitados con el fin de responder "
+"a la solicitud según lo descrito en"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:37
+#, fuzzy
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in Privacy Policy which I have read. I may withdraw "
+"my consent at any time."
+msgstr ""
+"Autorizo el uso de los datos personales facilitados con el fin de responder "
+"a la solicitud tal como se describe en la Política de privacidad que he "
+"leído. Puedo retirar mi consentimiento en cualquier momento."
+
+#: patterns/hidden-404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Parece que no se ha encontrado nada en este lugar. ¿Tal vez quisieras "
+"intentar una búsqueda?"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:22
+#, fuzzy
+msgid "Label"
+msgstr "Etiqueta"
+
+#: includes/Admin/AdminTranslations.php:20
+msgid "Landing"
+msgstr "Landing"
+
+#: includes/Admin/AdminTranslations.php:34
+msgid "Let us know more about your website to get the best result"
+msgstr "Haznos saber más de tu sitio web para que obtengas el mejor resultado"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:43
+#, fuzzy
+msgid "Link to your privacy policy page"
+msgstr "Enlace a su página de política de privacidad"
+
+#: includes/Builder/NavigationBuilder.php:350
+msgid "Menu"
+msgstr "Menú"
+
+#: includes/Shortcodes/ContactForm.php:78
+msgid "Message"
+msgstr "Mensaje"
+
+#: includes/Shortcodes/ContactForm.php:154
+msgid "Message:"
+msgstr "Mensaje:"
+
+#: includes/Shortcodes/ContactForm.php:60
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/Shortcodes/ContactForm.php:152
+msgid "Name:"
+msgstr "Nombre:"
+
+#: includes/Shortcodes/ContactForm.php:132
+msgid "New Contact Form Submission"
+msgstr "Nuevo formulario de contacto"
+
+#: gutenberg-blocks/Booking/Booking.php:79
+#, fuzzy
+msgid "No bookings yet."
+msgstr "Aún no hay reservas."
+
+#: patterns/query.php:24
+msgid "No results found."
+msgstr "No se han encontrado resultados."
+
+#: includes/Shortcodes/ContactForm.php:176
+msgid "Not valid recipient email."
+msgstr "Email del destinatario no válido."
+
+#: includes/Admin/AdminTranslations.php:15
+msgid "Other"
+msgstr "Otros"
+
+#: patterns/hidden-404.php:13
+msgid "Page not found"
+msgstr "No se encontró la página"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-post-meta.php
+msgctxt "Pattern title"
+msgid "Hidden post meta"
+msgstr "Post meta oculto"
+
+#: patterns/query.php
+msgctxt "Pattern title"
+msgid "Query"
+msgstr "Consulta"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:28
+#, fuzzy
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: includes/Shortcodes/ContactForm.php:123
+msgid "Please agree with privacy policy."
+msgstr "Por favor, acepta la política de privacidad."
+
+#: includes/Shortcodes/ContactForm.php:128
+msgid "Please enter a valid email address."
+msgstr "Por favor, introduce una dirección de email válida."
+
+#: includes/Admin/AdminTranslations.php:16
+msgid "Portfolio"
+msgstr "Portafolio"
+
+#: includes/Shortcodes/ContactForm.php:44
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:39
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:48
+#, fuzzy
+msgid "Privacy Policy Link Text"
+msgstr "Texto del enlace a la política de privacidad"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:42
+#, fuzzy
+msgid "Privacy Policy URL"
+msgstr "Política de privacidad URL"
+
+#: includes/Rest/BuilderRoutes.php:213
+msgid "Problem building content."
+msgstr "Hay un problema creando el contenido."
+
+#: includes/Rest/BuilderRoutes.php:169
+msgid "Problem generating content."
+msgstr "Hay un problema generando el contenido."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:56
+#, fuzzy
+msgid "Required"
+msgstr "Requerido"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:25
+#, fuzzy
+msgid "Select date..."
+msgstr "Seleccione la fecha..."
+
+#: includes/Shortcodes/ContactForm.php:101
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: includes/Builder/NavigationBuilder.php:352
+msgid "Socials"
+msgstr "Sociales"
+
+#: includes/Rest/BuilderRoutes.php:63
+msgid "Sorry, something wrong with data."
+msgstr "Lo sentimos, algo está mal con los datos."
+
+#: includes/Shortcodes/ContactForm.php:171
+msgid "Successfully submitted!"
+msgstr "¡Enviado correctamente!"
+
+#: includes/Admin/AdminTranslations.php:12
+msgid "Tell us about your site"
+msgstr "Háblanos de tu sitio web"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:49
+#, fuzzy
+msgid "Text to display for the privacy policy link"
+msgstr "Texto del enlace a la política de privacidad"
+
+#. translators: %s php version
+#: functions.php:36
+msgid ""
+"The Hostinger Easy Onboarding plugin requires minimum PHP version of <b>"
+"%s</b>. "
+msgstr ""
+"El plugin Hostinger Easy Onboarding requiere una versión mínima de PHP de <b>"
+"%s</b>."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:37
+#, fuzzy
+msgid "The text shown with the privacy policy checkbox"
+msgstr ""
+"El texto que aparece con la casilla de verificación de la política de "
+"privacidad"
+
+#: includes/Settings/Theme.php:29 includes/Settings/Theme.php:30
+#: includes/Settings/Theme.php:122
+msgid "Theme Settings"
+msgstr "Ajustes del tema"
+
+#: includes/Admin/AdminTranslations.php:40
+msgid "This field is required"
+msgstr "Este campo es obligatorio"
+
+#: includes/Admin/AdminTranslations.php:42
+msgid "This field should not be longer than 1024 symbols."
+msgstr "Este campo no debe tener más de 1024 símbolos."
+
+#: includes/Admin/AdminTranslations.php:41
+msgid "This field should not be longer than 255 symbols."
+msgstr "Este campo no debe tener más de 255 símbolos."
+
+#: includes/Admin/AdminTranslations.php:14
+msgid "Website type"
+msgstr "Tipo de sitio web"
+
+#: includes/Shortcodes/ContactForm.php:74
+msgid "What's your email?"
+msgstr "¿Cuál es tu email?"
+
+#: includes/Shortcodes/ContactForm.php:65
+msgid "What's your name?"
+msgstr "¿Cómo te llamas?"
+
+#: includes/Shortcodes/ContactForm.php:46
+msgid "which I have read. I may withdraw my consent at any time."
+msgstr "que he leído. Puedo retirar mi consentimiento en cualquier momento."
+
+#: includes/Shortcodes/ContactForm.php:82
+msgid "Write your message..."
+msgstr "Escribe tu mensaje..."
+
+#: includes/Rest/BuilderRoutes.php:114 includes/Rest/BuilderRoutes.php:149
+#: includes/Rest/BuilderRoutes.php:197
+msgid "Wrong sequence of step execution."
+msgstr "Secuencia incorrecta de ejecución de pasos."
+
+#. translators: %s php version
+#: functions.php:40
+msgid "You are running <b>%s</b> PHP version."
+msgstr "Estás ejecutando la versión <b>%s</b> de PHP."
+
+#: includes/Admin/AdminTranslations.php:37
+msgid ""
+"You have already generated content. Continuing will delete all previous "
+"content. Are you sure you want to proceed?"
+msgstr ""
+"Ya has generado contenido. Continuar borrará todo el contenido anterior. "
+"¿Realmente quieres continuar?"
+
+#: includes/Shortcodes/ContactForm.php:150
+msgid "You have received a new message through your website's contact form."
+msgstr ""
+"Has recibido un nuevo mensaje a través del formulario de contacto de tu "
+"sitio web."

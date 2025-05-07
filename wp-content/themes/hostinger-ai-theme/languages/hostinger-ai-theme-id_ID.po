@@ -1,0 +1,663 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI theme 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hostinger-ai-"
+"theme\n"
+"Last-Translator: \n"
+"Language-Team: Indonesian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-17T07:01:03+00:00\n"
+"PO-Revision-Date: 2025-03-27 19:26+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-theme\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2"
+
+#: includes/Admin/AdminTranslations.php:10
+msgid ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">Site couldn’t be created</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">That’s because of an "
+"issue on our end. Try creating your site again. </p></span>"
+msgstr ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">Situs tidak dapat dibuat</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">Itu karena ada masalah "
+"di pihak kami. Coba buat situs Anda lagi. </p></span>"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:46
+#, fuzzy
+msgid "A customizable booking form for your website"
+msgstr "Formulir pemesanan yang dapat disesuaikan untuk situs web Anda"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:126
+#, fuzzy
+msgid "Add text..."
+msgstr "Tambahkan teks..."
+
+#: includes/Settings/Theme.php:94
+msgid "Adjust how elements are displayed on your website:"
+msgstr "Sesuaikan tampilkan elemen di situs Anda:"
+
+#: includes/Admin/AdminTranslations.php:18
+msgid "Affiliate marketing site"
+msgstr "Situs affiliate marketing"
+
+#: includes/Admin/AdminTranslations.php:11 includes/Admin/Menu.php:21
+#: includes/Admin/Menu.php:22
+msgid "AI Website Creation"
+msgstr "AI Website Builder"
+
+#: includes/Builder/NavigationBuilder.php:205
+#, fuzzy
+msgid "All rights reserved."
+msgstr "Semua hak cipta dilindungi undang-undang."
+
+#: includes/Shortcodes/ContactForm.php:26
+msgid "An error occurred. Please try again later."
+msgstr "Terjadi kesalahan. Silakan coba lagi nanti."
+
+#. translators: %s php version
+#: functions.php:36
+msgid "Attention:"
+msgstr "Perhatian:"
+
+#: includes/Admin/AdminTranslations.php:25
+msgid "Back"
+msgstr "Kembali"
+
+#: gutenberg-blocks/Booking/block.json
+#, fuzzy
+msgctxt "block description"
+msgid "A block with booking form integration"
+msgstr "Blok dengan integrasi formulir pemesanan"
+
+#: gutenberg-blocks/Booking/block.json
+#, fuzzy
+msgctxt "block title"
+msgid "Booking Block"
+msgstr "Blok Pemesanan"
+
+#: includes/Admin/AdminTranslations.php:19
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/Admin/AdminTranslations.php:21
+#, fuzzy
+msgid "Booking"
+msgstr "Pemesanan"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:45
+#, fuzzy
+msgid "Booking Form"
+msgstr "Formulir Pemesanan"
+
+#: gutenberg-blocks/Booking/Booking.php:76
+#, fuzzy
+msgid "Bookings"
+msgstr "Pemesanan"
+
+#: includes/Admin/AdminTranslations.php:13
+msgid "Brand name"
+msgstr "Nama brand"
+
+#: includes/Admin/AdminTranslations.php:29
+msgid "Building content"
+msgstr "Konten bangunan"
+
+#: includes/Admin/AdminTranslations.php:17
+msgid "Business and services"
+msgstr "Bisnis dan layanan"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:64
+#, fuzzy
+msgid "Button Settings"
+msgstr "Pengaturan Tombol"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:66
+#, fuzzy
+msgid "Button Text"
+msgstr "Teks Tombol"
+
+#: includes/Admin/AdminTranslations.php:38
+msgid "Cancel"
+msgstr "Batal"
+
+#: includes/Settings/Theme.php:110
+msgid "Check this box to hide the header element on all pages"
+msgstr "Centang kotak ini untuk menyembunyikan elemen header di semua halaman"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 1 (Section backgrounds)"
+msgstr "Warna 1 (Latar belakang bagian)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 2 (Section backgrounds)"
+msgstr "Warna 2 (Latar belakang bagian)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 3 (Button background)"
+msgstr "Warna 3 (Latar belakang tombol)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark (Text on Light and Color 1)"
+msgstr "Gelap (Teks pada Cahaya dan Warna 1)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Grey (Form borders)"
+msgstr "Abu-abu (Bentuk border)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light (Text on Color 2 and Gradient)"
+msgstr "Terang (Teks pada Warna 2 dan Gradien)"
+
+#: includes/Admin/AdminTranslations.php:31
+msgid "Confirm & edit"
+msgstr "Konfirmasi & edit"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:36
+#, fuzzy
+msgid "Consent Text"
+msgstr "Teks Persetujuan"
+
+#: includes/Builder/NavigationBuilder.php:351
+msgid "Contacts"
+msgstr "Kontak"
+
+#: includes/Admin/AdminTranslations.php:39
+msgid "Continue"
+msgstr "Lanjutkan"
+
+#: includes/Admin/AdminTranslations.php:24
+msgid "Create"
+msgstr "Membuat"
+
+#: includes/Admin/AdminTranslations.php:30
+msgid "Create again"
+msgstr "Buat lagi"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr "Tidak ada judul"
+
+#: gutenberg-blocks/Booking/Booking.php:85
+#, fuzzy
+msgid "Date"
+msgstr "Tanggal"
+
+#: includes/Admin/AdminTranslations.php:22
+msgid "Describe your site"
+msgstr "Deskripsikan situs Anda"
+
+#: includes/Admin/AdminTranslations.php:23
+msgid "Description"
+msgstr "Deskripsi"
+
+#: includes/Shortcodes/ContactForm.php:151
+msgid "Details:"
+msgstr "Detail:"
+
+#: includes/Settings/Theme.php:53
+msgid "Display Settings"
+msgstr "Pengaturan Tampilan"
+
+#: includes/Admin/Surveys.php:35
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "Apakah Anda memiliki komentar/saran untuk meningkatkan tool AI kami?"
+
+#: includes/Hooks.php:79
+msgid "Edit site"
+msgstr "Edit situs"
+
+#: includes/Shortcodes/ContactForm.php:69
+msgid "Email"
+msgstr "Email"
+
+#: includes/Shortcodes/ContactForm.php:153
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/Admin/AdminTranslations.php:33
+msgid "Enter at least 11 characters"
+msgstr "Masukkan setidaknya 11 karakter"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:19
+#, fuzzy
+msgid "Enter your email..."
+msgstr "Masukkan email Anda..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:31
+#, fuzzy
+msgid "Enter your message..."
+msgstr "Masukkan pesan Anda..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:13
+#, fuzzy
+msgid "Enter your name..."
+msgstr "Masukkan nama Anda..."
+
+#: includes/Admin/AdminTranslations.php:36
+msgid "Existing content will be deleted"
+msgstr "Konten yang ada akan dihapus"
+
+#: includes/Admin/Templates/featured-image-metabox.php:7
+msgid "External image can be used to show featured image."
+msgstr "Gambar eksternal dapat digunakan untuk menampilkan gambar unggulan."
+
+#: includes/Admin/Templates/featured-image-metabox.php:12
+msgid "External Image URL"
+msgstr "URL Gambar Eksternal"
+
+#: includes/Shortcodes/ContactForm.php:173
+msgid "Failed to send email. Please try again later."
+msgstr "Gagal mengirim email. Silakan coba lagi nanti."
+
+#: includes/Admin/Hooks.php:33
+msgid "Featured Image with URL"
+msgstr "Gambar Unggulan dengan URL"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:18
+#, fuzzy
+msgid "Field Settings"
+msgstr "Pengaturan Bidang"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "Sistem"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Besar"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Sedang"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Kecil"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/Admin/AdminTranslations.php:26
+msgid "Generating colors"
+msgstr "Membuat warna"
+
+#: includes/Admin/AdminTranslations.php:28
+msgid "Generating content"
+msgstr "Membuat konten"
+
+#: includes/Admin/AdminTranslations.php:27
+msgid "Generating structure"
+msgstr "Membuat struktur"
+
+#: includes/Admin/AdminTranslations.php:32
+msgid "Give us a minute"
+msgstr "Tunggu beberapa menit"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Section background gradient"
+msgstr "Gradien latar belakang bagian"
+
+#: includes/Admin/AdminTranslations.php:35
+msgid "Great description! Feel free to add more details"
+msgstr "Deskripsi yang bagus! Tambahkan lebih banyak detail"
+
+#: includes/Shortcodes/ContactForm.php:149
+msgid "Hello,"
+msgstr "Halo,"
+
+#: includes/Settings/Theme.php:60
+msgid "Hide Header"
+msgstr "Sembunyikan Header"
+
+#. Author of the theme
+#: style.css
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hostinger AI theme"
+msgstr "Tema AI Hostinger"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Hostinger AI theme built with SEO and mobile responsiveness in mind, this "
+"theme ensures optimal performance and a better online presence."
+msgstr ""
+"Tema AI Hostinger dibangun dengan mempertimbangkan SEO dan responsivitas "
+"seluler, tema ini memastikan kinerja optimal dan kehadiran online yang lebih "
+"baik."
+
+#: includes/Admin/Surveys.php:31
+msgid ""
+"How would you rate your experience using our AI website builder to create "
+"your site? (Scale 1-10)"
+msgstr ""
+"Seberapa puakah Anda menggunakan AI website builder kami untuk membuat situs "
+"Anda? (Skala 1-10)"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com"
+
+#: includes/Shortcodes/ContactForm.php:42
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in"
+msgstr ""
+"Saya menyetujui penggunaan data pribadi yang diberikan untuk tujuan "
+"menanggapi permintaan seperti yang dijelaskan dalam"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:37
+#, fuzzy
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in Privacy Policy which I have read. I may withdraw "
+"my consent at any time."
+msgstr ""
+"Saya menyetujui penggunaan data pribadi yang diberikan untuk tujuan "
+"menanggapi permintaan seperti yang dijelaskan dalam Kebijakan Privasi yang "
+"telah saya baca. Saya dapat menarik persetujuan saya kapan saja."
+
+#: patterns/hidden-404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Sepertinya tidak ada yang ditemukan di lokasi ini. Mungkin bisa dicoba "
+"mencari?"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:22
+#, fuzzy
+msgid "Label"
+msgstr "Label"
+
+#: includes/Admin/AdminTranslations.php:20
+msgid "Landing"
+msgstr "Landing"
+
+#: includes/Admin/AdminTranslations.php:34
+msgid "Let us know more about your website to get the best result"
+msgstr ""
+"Beri tahu kami lebih banyak tentang website Anda untuk mendapatkan hasil "
+"terbaik"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:43
+#, fuzzy
+msgid "Link to your privacy policy page"
+msgstr "Tautan ke halaman kebijakan privasi Anda"
+
+#: includes/Builder/NavigationBuilder.php:350
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/Shortcodes/ContactForm.php:78
+msgid "Message"
+msgstr "Pesan"
+
+#: includes/Shortcodes/ContactForm.php:154
+msgid "Message:"
+msgstr "Pesan:"
+
+#: includes/Shortcodes/ContactForm.php:60
+msgid "Name"
+msgstr "Nama"
+
+#: includes/Shortcodes/ContactForm.php:152
+msgid "Name:"
+msgstr "Nama:"
+
+#: includes/Shortcodes/ContactForm.php:132
+msgid "New Contact Form Submission"
+msgstr "Pengiriman Formulir Kontak Baru"
+
+#: gutenberg-blocks/Booking/Booking.php:79
+#, fuzzy
+msgid "No bookings yet."
+msgstr "Belum ada pemesanan."
+
+#: patterns/query.php:24
+msgid "No results found."
+msgstr "Tidak ada hasil yang ditemukan."
+
+#: includes/Shortcodes/ContactForm.php:176
+msgid "Not valid recipient email."
+msgstr "Email penerima tidak valid."
+
+#: includes/Admin/AdminTranslations.php:15
+msgid "Other"
+msgstr "Lainnya"
+
+#: patterns/hidden-404.php:13
+msgid "Page not found"
+msgstr "Halaman tidak ditemukan"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-post-meta.php
+msgctxt "Pattern title"
+msgid "Hidden post meta"
+msgstr "Meta pos tersembunyi"
+
+#: patterns/query.php
+msgctxt "Pattern title"
+msgid "Query"
+msgstr "Pertanyaan"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:28
+#, fuzzy
+msgid "Placeholder"
+msgstr "Penampung"
+
+#: includes/Shortcodes/ContactForm.php:123
+msgid "Please agree with privacy policy."
+msgstr "Harap setujui kebijakan privasi."
+
+#: includes/Shortcodes/ContactForm.php:128
+msgid "Please enter a valid email address."
+msgstr "Masukkan alamat email yang valid."
+
+#: includes/Admin/AdminTranslations.php:16
+msgid "Portfolio"
+msgstr "Portofolio"
+
+#: includes/Shortcodes/ContactForm.php:44
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:39
+msgid "Privacy Policy"
+msgstr "Kebijakan Privasi"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:48
+#, fuzzy
+msgid "Privacy Policy Link Text"
+msgstr "Teks Tautan Kebijakan Privasi"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:42
+#, fuzzy
+msgid "Privacy Policy URL"
+msgstr "URL Kebijakan Privasi"
+
+#: includes/Rest/BuilderRoutes.php:213
+msgid "Problem building content."
+msgstr "Konten yang membangun masalah."
+
+#: includes/Rest/BuilderRoutes.php:169
+msgid "Problem generating content."
+msgstr "Konten yang menghasilkan masalah."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:56
+#, fuzzy
+msgid "Required"
+msgstr "Diperlukan"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:25
+#, fuzzy
+msgid "Select date..."
+msgstr "Pilih tanggal..."
+
+#: includes/Shortcodes/ContactForm.php:101
+msgid "Send Message"
+msgstr "Kirim Pesan"
+
+#: includes/Builder/NavigationBuilder.php:352
+msgid "Socials"
+msgstr "Sosial"
+
+#: includes/Rest/BuilderRoutes.php:63
+msgid "Sorry, something wrong with data."
+msgstr "Maaf, ada yang salah dengan data."
+
+#: includes/Shortcodes/ContactForm.php:171
+msgid "Successfully submitted!"
+msgstr "Berhasil dikirim!"
+
+#: includes/Admin/AdminTranslations.php:12
+msgid "Tell us about your site"
+msgstr "Ceritakan kepada kami tentang situs Anda"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Header"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:49
+#, fuzzy
+msgid "Text to display for the privacy policy link"
+msgstr "Teks yang akan ditampilkan untuk tautan kebijakan privasi"
+
+#. translators: %s php version
+#: functions.php:36
+msgid ""
+"The Hostinger Easy Onboarding plugin requires minimum PHP version of <b>"
+"%s</b>. "
+msgstr ""
+"Plugin Hostinger Easy Onboarding membutuhkan versi PHP minimum <b>%s</b>."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:37
+#, fuzzy
+msgid "The text shown with the privacy policy checkbox"
+msgstr "Teks yang ditampilkan dengan kotak centang kebijakan privasi"
+
+#: includes/Settings/Theme.php:29 includes/Settings/Theme.php:30
+#: includes/Settings/Theme.php:122
+msgid "Theme Settings"
+msgstr "Pengaturan Tema"
+
+#: includes/Admin/AdminTranslations.php:40
+msgid "This field is required"
+msgstr "Kolom wajib diisi"
+
+#: includes/Admin/AdminTranslations.php:42
+msgid "This field should not be longer than 1024 symbols."
+msgstr "Kolom tidak boleh lebih dari 1024 simbol."
+
+#: includes/Admin/AdminTranslations.php:41
+msgid "This field should not be longer than 255 symbols."
+msgstr "Kolom tidak boleh lebih dari 225 simbol."
+
+#: includes/Admin/AdminTranslations.php:14
+msgid "Website type"
+msgstr "Jenis website"
+
+#: includes/Shortcodes/ContactForm.php:74
+msgid "What's your email?"
+msgstr "Apa email Anda?"
+
+#: includes/Shortcodes/ContactForm.php:65
+msgid "What's your name?"
+msgstr "Siapa nama Anda?"
+
+#: includes/Shortcodes/ContactForm.php:46
+msgid "which I have read. I may withdraw my consent at any time."
+msgstr "yang telah saya baca. Saya dapat menarik persetujuan saya kapan saja."
+
+#: includes/Shortcodes/ContactForm.php:82
+msgid "Write your message..."
+msgstr "Tulis pesan Anda..."
+
+#: includes/Rest/BuilderRoutes.php:114 includes/Rest/BuilderRoutes.php:149
+#: includes/Rest/BuilderRoutes.php:197
+msgid "Wrong sequence of step execution."
+msgstr "Urutan eksekusi langkah yang salah."
+
+#. translators: %s php version
+#: functions.php:40
+msgid "You are running <b>%s</b> PHP version."
+msgstr "Anda menjalankan versi PHP <b>%s</b>."
+
+#: includes/Admin/AdminTranslations.php:37
+msgid ""
+"You have already generated content. Continuing will delete all previous "
+"content. Are you sure you want to proceed?"
+msgstr ""
+"Anda telah membuat konten. Melanjutkan akan menghapus semua konten "
+"sebelumnya. Apakah Anda yakin ingin melanjutkan?"
+
+#: includes/Shortcodes/ContactForm.php:150
+msgid "You have received a new message through your website's contact form."
+msgstr "Anda telah menerima pesan baru melalui formulir kontak situs Anda."

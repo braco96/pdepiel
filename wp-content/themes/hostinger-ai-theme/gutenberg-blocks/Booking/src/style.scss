@@ -1,0 +1,155 @@
+.wp-block-hostinger-ai-theme-booking-block {
+    /* Ensure the honeypot field is hidden from human visitors */
+    .honeypot-field {
+        display: none !important;
+        position: absolute !important;
+        left: -9999px !important;
+    }
+
+    .wp-block-group {
+
+        .booking-form-header {
+            margin-bottom: 2.5rem;
+
+            .wp-block-heading {
+                margin-top: 0;
+                margin-bottom: 1rem;
+                font-size: 2rem;
+                font-weight: 700;
+                color: #333;
+                line-height: 1.2;
+            }
+
+            p {
+                color: #666;
+                font-size: 1.1rem;
+                line-height: 1.5;
+                margin-bottom: 0;
+            }
+        }
+    }
+
+    .booking-form {
+        .form-field {
+            margin-bottom: 1.8rem;
+            display: flex;
+            flex-wrap: wrap;
+
+            label {
+                font-size: 14px;
+                display: block;
+                margin-bottom: 0.6rem;
+                font-weight: 600;
+                line-height: 1.4;
+
+                .required {
+                    color: #cf2e2e;
+                    margin-left: 4px;
+                }
+            }
+
+            input, textarea {
+                width: 100%;
+                padding: 1rem 1.2rem;
+                border: 1px solid #dadce0;
+                border-radius: 8px;
+                font-size: 1rem;
+                font-family: inherit;
+                transition: all 0.2s ease;
+            }
+
+            input[type="date"] {
+                color: #757575;
+            }
+
+            textarea {
+                min-height: 140px;
+                resize: vertical;
+            }
+        }
+
+        .privacy-consent-field {
+            margin-top: 1.5rem;
+
+            .privacy-consent-label {
+                display: flex;
+                align-items: flex-start;
+                gap: 10px;
+                font-weight: normal;
+
+                input[type="checkbox"] {
+                    width: auto;
+                    margin-top: 3px;
+                }
+
+                span {
+                    font-size: 14px;
+                    line-height: 1.5;
+
+                    a {
+                        color: var(--wp--preset--color--primary, #0073aa);
+                        text-decoration: underline;
+
+                        &:hover {
+                            text-decoration: none;
+                        }
+                    }
+                }
+            }
+        }
+
+        .wp-block-button__link {
+            display: flex;
+            width: 100%;
+            justify-content: center;
+            margin: 16px 0 24px;
+            padding: 12px 16px;
+            font-size: 16px;
+            font-weight: 400;
+            text-transform: none;
+            border-radius: 8px;
+            transition: .3s;
+            color: #000;
+            cursor: pointer;
+            box-shadow: none;
+            border:1px solid #dadce0;
+            background-color: #fff;
+
+            &:hover {
+                text-decoration: underline;
+            }
+
+            &.disabled,
+            &:disabled {
+                opacity: 0.5;
+                cursor: not-allowed;
+                pointer-events: none;
+                background-color: #f5f5f5;
+                border-color: #ddd;
+            }
+        }
+    }
+
+    .form-message {
+        border:1px solid #dadce0;
+        margin-top: 1.8rem;
+        padding: .6rem;
+        border-radius: 8px;
+        font-size: 1rem;
+        display: block;
+        visibility: hidden;
+        background-color: #fff;
+        position: relative;
+        color: #000;
+
+        &.success, &.error {
+            visibility: visible;
+        }
+
+        span {
+            position: absolute;
+            top:7px;
+        }
+
+    }
+}

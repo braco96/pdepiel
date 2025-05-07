@@ -1,0 +1,647 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI theme 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hostinger-ai-"
+"theme\n"
+"Last-Translator: Zhou Yu\n"
+"Language-Team: Chinese (China)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-17T07:01:03+00:00\n"
+"PO-Revision-Date: 2025-03-27 19:24+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-theme\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2"
+
+#: includes/Admin/AdminTranslations.php:10
+msgid ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">Site couldn’t be created</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">That’s because of an "
+"issue on our end. Try creating your site again. </p></span>"
+msgstr ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0;font-size:16px\">无法创建网站</h3> <p style=\"margin-top:0; font-"
+"size:14px; color:#727586\">这是因为我们这边出现了问题。请尝试重新创建您的网站。</p></span"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:46
+#, fuzzy
+msgid "A customizable booking form for your website"
+msgstr "可定制的网站预订表单"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:126
+#, fuzzy
+msgid "Add text..."
+msgstr "添加文本..."
+
+#: includes/Settings/Theme.php:94
+msgid "Adjust how elements are displayed on your website:"
+msgstr "调整网站元素的显示方式： "
+
+#: includes/Admin/AdminTranslations.php:18
+msgid "Affiliate marketing site"
+msgstr "联盟营销网站 "
+
+#: includes/Admin/AdminTranslations.php:11 includes/Admin/Menu.php:21
+#: includes/Admin/Menu.php:22
+msgid "AI Website Creation"
+msgstr "人工智能网站创建"
+
+#: includes/Builder/NavigationBuilder.php:205
+#, fuzzy
+msgid "All rights reserved."
+msgstr "保留所有权利。"
+
+#: includes/Shortcodes/ContactForm.php:26
+msgid "An error occurred. Please try again later."
+msgstr "发生错误。请稍后再试。 "
+
+#. translators: %s php version
+#: functions.php:36
+msgid "Attention:"
+msgstr "请注意："
+
+#: includes/Admin/AdminTranslations.php:25
+msgid "Back"
+msgstr ""
+"返回 \n"
+"\n"
+
+#: gutenberg-blocks/Booking/block.json
+#, fuzzy
+msgctxt "block description"
+msgid "A block with booking form integration"
+msgstr "集成预订表格的区块"
+
+#: gutenberg-blocks/Booking/block.json
+#, fuzzy
+msgctxt "block title"
+msgid "Booking Block"
+msgstr "预订区"
+
+#: includes/Admin/AdminTranslations.php:19
+msgid "Blog"
+msgstr "博客 "
+
+#: includes/Admin/AdminTranslations.php:21
+#, fuzzy
+msgid "Booking"
+msgstr "预订"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:45
+#, fuzzy
+msgid "Booking Form"
+msgstr "预订表格"
+
+#: gutenberg-blocks/Booking/Booking.php:76
+#, fuzzy
+msgid "Bookings"
+msgstr "预订"
+
+#: includes/Admin/AdminTranslations.php:13
+msgid "Brand name"
+msgstr "品牌名称"
+
+#: includes/Admin/AdminTranslations.php:29
+msgid "Building content"
+msgstr "建设内容"
+
+#: includes/Admin/AdminTranslations.php:17
+msgid "Business and services"
+msgstr "商业与服务"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:64
+#, fuzzy
+msgid "Button Settings"
+msgstr "按钮设置"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:66
+#, fuzzy
+msgid "Button Text"
+msgstr "按钮文本"
+
+#: includes/Admin/AdminTranslations.php:38
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/Settings/Theme.php:110
+msgid "Check this box to hide the header element on all pages"
+msgstr "选中此框可在所有页面上隐藏标题元素"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 1 (Section backgrounds)"
+msgstr "颜色 1（科室背景）"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 2 (Section backgrounds)"
+msgstr "颜色 2（科室背景）"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 3 (Button background)"
+msgstr "颜色 3（按钮背景）"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark (Text on Light and Color 1)"
+msgstr "深色（浅色和彩色 1 上的文字）"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Grey (Form borders)"
+msgstr "灰色（表格边框）"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light (Text on Color 2 and Gradient)"
+msgstr "浅色（颜色 2 和渐变色上的文字）"
+
+#: includes/Admin/AdminTranslations.php:31
+msgid "Confirm & edit"
+msgstr "确认和编辑 "
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:36
+#, fuzzy
+msgid "Consent Text"
+msgstr "同意文本"
+
+#: includes/Builder/NavigationBuilder.php:351
+msgid "Contacts"
+msgstr "联系方式"
+
+#: includes/Admin/AdminTranslations.php:39
+msgid "Continue"
+msgstr "继续"
+
+#: includes/Admin/AdminTranslations.php:24
+msgid "Create"
+msgstr "创建"
+
+#: includes/Admin/AdminTranslations.php:30
+msgid "Create again"
+msgstr "再次创建 "
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr "无标题"
+
+#: gutenberg-blocks/Booking/Booking.php:85
+#, fuzzy
+msgid "Date"
+msgstr "日期"
+
+#: includes/Admin/AdminTranslations.php:22
+msgid "Describe your site"
+msgstr "描述您的网站"
+
+#: includes/Admin/AdminTranslations.php:23
+msgid "Description"
+msgstr "说明"
+
+#: includes/Shortcodes/ContactForm.php:151
+msgid "Details:"
+msgstr "详细信息： "
+
+#: includes/Settings/Theme.php:53
+msgid "Display Settings"
+msgstr "显示设置"
+
+#: includes/Admin/Surveys.php:35
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "请问您对改进我们的AI工具有什么意见/建议？ "
+
+#: includes/Hooks.php:79
+msgid "Edit site"
+msgstr "编辑网站"
+
+#: includes/Shortcodes/ContactForm.php:69
+msgid "Email"
+msgstr "电子邮件 "
+
+#: includes/Shortcodes/ContactForm.php:153
+msgid "Email:"
+msgstr "电子邮件： "
+
+#: includes/Admin/AdminTranslations.php:33
+msgid "Enter at least 11 characters"
+msgstr "输入至少 11 个字符"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:19
+#, fuzzy
+msgid "Enter your email..."
+msgstr "输入您的电子邮件..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:31
+#, fuzzy
+msgid "Enter your message..."
+msgstr "输入您的信息..."
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:13
+#, fuzzy
+msgid "Enter your name..."
+msgstr "输入您的姓名..."
+
+#: includes/Admin/AdminTranslations.php:36
+msgid "Existing content will be deleted"
+msgstr "现有内容将被删除"
+
+#: includes/Admin/Templates/featured-image-metabox.php:7
+msgid "External image can be used to show featured image."
+msgstr "外部图片可用于显示特色图片。 "
+
+#: includes/Admin/Templates/featured-image-metabox.php:12
+msgid "External Image URL"
+msgstr "外部图像 URL "
+
+#: includes/Shortcodes/ContactForm.php:173
+msgid "Failed to send email. Please try again later."
+msgstr "发送电子邮件失败。请稍后再试。 "
+
+#: includes/Admin/Hooks.php:33
+msgid "Featured Image with URL"
+msgstr "特色图片URL"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:18
+#, fuzzy
+msgid "Field Settings"
+msgstr "现场设置"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "衬线"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "系统"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "大型"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "中型"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "小型"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/Admin/AdminTranslations.php:26
+msgid "Generating colors"
+msgstr "生成颜色"
+
+#: includes/Admin/AdminTranslations.php:28
+msgid "Generating content"
+msgstr "生成内容"
+
+#: includes/Admin/AdminTranslations.php:27
+msgid "Generating structure"
+msgstr "生成结构"
+
+#: includes/Admin/AdminTranslations.php:32
+msgid "Give us a minute"
+msgstr "给我们一点时间"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Section background gradient"
+msgstr "断面背景渐变"
+
+#: includes/Admin/AdminTranslations.php:35
+msgid "Great description! Feel free to add more details"
+msgstr "很好的描述！欢迎添加更多细节"
+
+#: includes/Shortcodes/ContactForm.php:149
+msgid "Hello,"
+msgstr "你好，"
+
+#: includes/Settings/Theme.php:60
+msgid "Hide Header"
+msgstr "隐藏标题"
+
+#. Author of the theme
+#: style.css
+msgid "Hostinger"
+msgstr "霍斯廷格"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hostinger AI theme"
+msgstr "Hostinger AI 主题"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Hostinger AI theme built with SEO and mobile responsiveness in mind, this "
+"theme ensures optimal performance and a better online presence."
+msgstr "Hostinger AI主题考虑到了搜索引擎优化和移动响应能力，可确保最佳性能和更好的在线展示。"
+
+#: includes/Admin/Surveys.php:31
+msgid ""
+"How would you rate your experience using our AI website builder to create "
+"your site? (Scale 1-10)"
+msgstr "您如何评价我们的 AI 建站助手的使用体验？ (1-10 分)"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com"
+
+#: includes/Shortcodes/ContactForm.php:42
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in"
+msgstr "我同意将所提供的个人资料用于以下用途"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:37
+#, fuzzy
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in Privacy Policy which I have read. I may withdraw "
+"my consent at any time."
+msgstr "我同意将所提供的个人数据用于回应我已阅读过的《隐私政策》中所述的请求。我可以随时撤回我的同意。"
+
+#: patterns/hidden-404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "看来在这个地方什么也没找到。也许可以试试搜索？"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:22
+#, fuzzy
+msgid "Label"
+msgstr "标签"
+
+#: includes/Admin/AdminTranslations.php:20
+msgid "Landing"
+msgstr "着陆 "
+
+#: includes/Admin/AdminTranslations.php:34
+msgid "Let us know more about your website to get the best result"
+msgstr "让我们进一步了解您的网站，以获得最佳效果"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:43
+#, fuzzy
+msgid "Link to your privacy policy page"
+msgstr "链接到您的隐私政策页面"
+
+#: includes/Builder/NavigationBuilder.php:350
+msgid "Menu"
+msgstr "菜单"
+
+#: includes/Shortcodes/ContactForm.php:78
+msgid "Message"
+msgstr "留言 "
+
+#: includes/Shortcodes/ContactForm.php:154
+msgid "Message:"
+msgstr "留言： "
+
+#: includes/Shortcodes/ContactForm.php:60
+msgid "Name"
+msgstr "姓名"
+
+#: includes/Shortcodes/ContactForm.php:152
+msgid "Name:"
+msgstr "姓名："
+
+#: includes/Shortcodes/ContactForm.php:132
+msgid "New Contact Form Submission"
+msgstr "提交新的联系表单 "
+
+#: gutenberg-blocks/Booking/Booking.php:79
+#, fuzzy
+msgid "No bookings yet."
+msgstr "尚未预订。"
+
+#: patterns/query.php:24
+msgid "No results found."
+msgstr "未找到结果。"
+
+#: includes/Shortcodes/ContactForm.php:176
+msgid "Not valid recipient email."
+msgstr "收件人电子邮件无效。 "
+
+#: includes/Admin/AdminTranslations.php:15
+msgid "Other"
+msgstr "其他"
+
+#: patterns/hidden-404.php:13
+msgid "Page not found"
+msgstr "未找到页面"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-post-meta.php
+msgctxt "Pattern title"
+msgid "Hidden post meta"
+msgstr "隐藏职位元"
+
+#: patterns/query.php
+msgctxt "Pattern title"
+msgid "Query"
+msgstr "查询"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:28
+#, fuzzy
+msgid "Placeholder"
+msgstr "占位符"
+
+#: includes/Shortcodes/ContactForm.php:123
+msgid "Please agree with privacy policy."
+msgstr "请同意隐私政策。 "
+
+#: includes/Shortcodes/ContactForm.php:128
+msgid "Please enter a valid email address."
+msgstr "请输入有效的电子邮件地址。 "
+
+#: includes/Admin/AdminTranslations.php:16
+msgid "Portfolio"
+msgstr "投资组合"
+
+#: includes/Shortcodes/ContactForm.php:44
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:39
+msgid "Privacy Policy"
+msgstr "隐私政策 "
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:48
+#, fuzzy
+msgid "Privacy Policy Link Text"
+msgstr "隐私政策链接文本"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:42
+#, fuzzy
+msgid "Privacy Policy URL"
+msgstr "隐私政策 URL"
+
+#: includes/Rest/BuilderRoutes.php:213
+msgid "Problem building content."
+msgstr "建立内容的问题。"
+
+#: includes/Rest/BuilderRoutes.php:169
+msgid "Problem generating content."
+msgstr "产生内容的问题。"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:56
+#, fuzzy
+msgid "Required"
+msgstr "需要"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/index.js:25
+#, fuzzy
+msgid "Select date..."
+msgstr "选择日期..."
+
+#: includes/Shortcodes/ContactForm.php:101
+msgid "Send Message"
+msgstr " 发送"
+
+#: includes/Builder/NavigationBuilder.php:352
+msgid "Socials"
+msgstr "社交活动"
+
+#: includes/Rest/BuilderRoutes.php:63
+msgid "Sorry, something wrong with data."
+msgstr "对不起，数据有问题。"
+
+#: includes/Shortcodes/ContactForm.php:171
+msgid "Successfully submitted!"
+msgstr "已成功提交！"
+
+#: includes/Admin/AdminTranslations.php:12
+msgid "Tell us about your site"
+msgstr "向我们介绍您的网站"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "页脚"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "页眉"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:49
+#, fuzzy
+msgid "Text to display for the privacy policy link"
+msgstr "隐私政策链接的显示文本"
+
+#. translators: %s php version
+#: functions.php:36
+msgid ""
+"The Hostinger Easy Onboarding plugin requires minimum PHP version of <b>"
+"%s</b>. "
+msgstr "Hostinger Easy Onboarding插件的最低PHP版本要求为<b>%s</b>。"
+
+#: gutenberg-blocks/Booking/build/index.js:1
+#: gutenberg-blocks/Booking/src/edit.js:37
+#, fuzzy
+msgid "The text shown with the privacy policy checkbox"
+msgstr "隐私政策复选框显示的文本"
+
+#: includes/Settings/Theme.php:29 includes/Settings/Theme.php:30
+#: includes/Settings/Theme.php:122
+msgid "Theme Settings"
+msgstr "主题设置 "
+
+#: includes/Admin/AdminTranslations.php:40
+msgid "This field is required"
+msgstr "该字段为必填字段 "
+
+#: includes/Admin/AdminTranslations.php:42
+msgid "This field should not be longer than 1024 symbols."
+msgstr "该字段的长度不应超过 1024 个字符。 "
+
+#: includes/Admin/AdminTranslations.php:41
+msgid "This field should not be longer than 255 symbols."
+msgstr "该字段的长度不应超过 255 个字符。"
+
+#: includes/Admin/AdminTranslations.php:14
+msgid "Website type"
+msgstr "网站类型"
+
+#: includes/Shortcodes/ContactForm.php:74
+msgid "What's your email?"
+msgstr "请输入您的电子邮件 "
+
+#: includes/Shortcodes/ContactForm.php:65
+msgid "What's your name?"
+msgstr "请输入您的姓名"
+
+#: includes/Shortcodes/ContactForm.php:46
+msgid "which I have read. I may withdraw my consent at any time."
+msgstr "我已阅读。我可能随时撤回我的许可。 "
+
+#: includes/Shortcodes/ContactForm.php:82
+msgid "Write your message..."
+msgstr "请写下您的留言..."
+
+#: includes/Rest/BuilderRoutes.php:114 includes/Rest/BuilderRoutes.php:149
+#: includes/Rest/BuilderRoutes.php:197
+msgid "Wrong sequence of step execution."
+msgstr "步骤执行顺序错误。"
+
+#. translators: %s php version
+#: functions.php:40
+msgid "You are running <b>%s</b> PHP version."
+msgstr "您运行的是 <b>%s</b> PHP 版本。"
+
+#: includes/Admin/AdminTranslations.php:37
+msgid ""
+"You have already generated content. Continuing will delete all previous "
+"content. Are you sure you want to proceed?"
+msgstr "您已经生成了内容。继续将删除之前的所有内容。您确定要继续吗？"
+
+#: includes/Shortcodes/ContactForm.php:150
+msgid "You have received a new message through your website's contact form."
+msgstr "您通过网站的联系表单收到了一条新信息。 "

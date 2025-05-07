@@ -1,0 +1,31 @@
+{
+    "name": "@hostinger-ai-theme/booking-block",
+    "version": "1.0.1",
+    "description": "A Gutenberg block for booking form with submissions",
+    "scripts": {
+        "build": "wp-scripts build --config webpack.config.js",
+        "start": "wp-scripts start --config webpack.config.js",
+        "check-engines": "wp-scripts check-engines",
+        "check-licenses": "wp-scripts check-licenses",
+        "format": "wp-scripts format",
+        "lint:css": "wp-scripts lint-style",
+        "lint:js": "wp-scripts lint-js",
+        "lint:md:docs": "wp-scripts lint-md-docs",
+        "lint:pkg-json": "wp-scripts lint-pkg-json",
+        "packages-update": "wp-scripts packages-update",
+        "plugin-zip": "wp-scripts plugin-zip",
+        "test:e2e": "wp-scripts test-e2e",
+        "test:unit": "wp-scripts test-unit-js"
+    },
+    "author": "Hostinger",
+    "license": "GPL-2.0-or-later",
+    "devDependencies": {
+        "@wordpress/scripts": "^30.13.0",
+        "sass": "^1.71.0",
+        "sass-loader": "^14.1.0"
+    },
+    "dependencies": {
+        "@wordpress/block-editor": "^11.8.0",
+        "@wordpress/blocks": "^12.5.0"
+    }
+}
